@@ -7,14 +7,8 @@ export default StyleSheet.create({
   },
   bg_dark: {
     flex: 1,
-
-    // Set content's vertical alignment.
     justifyContent: 'flex-start',
-
-    // Set content's horizontal alignment.
     alignItems: 'stretch',
-
-    // Set hex color code here.
     backgroundColor: '#252F3A',
   },
 });

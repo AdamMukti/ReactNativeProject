@@ -1,11 +1,18 @@
-import {View, Text, StyleSheet, Image} from 'react-native';
+import {
+  View,
+  Text,
+  StyleSheet,
+  Image,
+  TouchableOpacity,
+  Pressable,
+} from 'react-native';
 import React from 'react';
 import ThemeText from '../assets/style/ThemeText';
 import Styles from '../assets/style/Styles';
 import ThemeColor from '../assets/style/ThemeColor';
 // import arrowRightWhite from '../assets/icon/arrow_right_dark.png';
 
-const Homepage = () => {
+const Homepage = ({navigation}) => {
   return (
     <View style={Styles.bg_dark}>
       <View style={Styles.container}>
@@ -15,15 +22,69 @@ const Homepage = () => {
         <Text style={[ThemeText.textHeading, style.textHeading]}>
           SISTEM INFORMASI MANAJEMEN TUGAS AKHIR
         </Text>
-        <View style={[style.hero, {flexDirection: 'row'}]}>
-          <View style={{padding: 24}}>
-            <Text style={ThemeText.textTitle}>Mahasiswa</Text>
-            <Text style={[ThemeText.textHeading, {fontSize: 48}]}>1232</Text>
+        <TouchableOpacity onPress={() => navigation.navigate('Mahasiswa')}>
+          <View style={[style.hero, {flexDirection: 'row'}]}>
+            <View style={{padding: 24}}>
+              <Text style={ThemeText.textTitle}>Mahasiswa</Text>
+              <Text style={[ThemeText.textHeading, {fontSize: 48}]}>1232</Text>
+            </View>
+            <Image
+              source={require('../assets/icon/arrowRightLight.png')}
+              style={{position: 'absolute', bottom: 24, right: 24}}
+            />
           </View>
-          <Image
-            source={require('../assets/icon/arrowRightLight.png')}
-            style={{position: 'absolute', bottom: 24, right: 24}}
-          />
+        </TouchableOpacity>
+        <View style={style.menuWrapper}>
+          <View style={[{backgroundColor: '#FFF5E9'}, style.menu]}>
+            <Text style={[ThemeText.textTitle, {color: '#D9C0AB'}]}>Dosen</Text>
+            <Text
+              style={[ThemeText.textHeading, {color: '#D29B74', fontSize: 36}]}>
+              1234
+            </Text>
+            <Image
+              source={require('../assets/icon/arrowRightDark.png')}
+              style={{position: 'absolute', bottom: 24, right: 24}}
+            />
+          </View>
+          <View style={[{backgroundColor: '#EBFAFF'}, style.menu]}>
+            <Text style={[ThemeText.textTitle, {color: '#B6D2D8'}]}>
+              Proposal
+            </Text>
+            <Text
+              style={[ThemeText.textHeading, {color: '#5DABC1', fontSize: 36}]}>
+              1234
+            </Text>
+            <Image
+              source={require('../assets/icon/arrowRightDark.png')}
+              style={{position: 'absolute', bottom: 24, right: 24}}
+            />
+          </View>
+          <View style={[{backgroundColor: '#F7F4FF'}, style.menu]}>
+            <Text style={[ThemeText.textTitle, {color: '#BEB3CE'}]}>
+              Kolokium
+            </Text>
+            <Text
+              style={[ThemeText.textHeading, {color: '#9073B4', fontSize: 36}]}>
+              1234
+            </Text>
+            <Image
+              source={require('../assets/icon/arrowRightDark.png')}
+              style={{position: 'absolute', bottom: 24, right: 24}}
+            />
+          </View>
+          <View style={[{backgroundColor: '#F4FFFB'}, style.menu]}>
+            <Text style={[ThemeText.textTitle, {color: '#B6D0C5'}]}>
+              Yudisium
+            </Text>
+            <Text
+              style={[ThemeText.textHeading, {color: '#6FABA1', fontSize: 36}]}>
+              1234
+            </Text>
+            <Image
+              source={require('../assets/icon/arrowRightDark.png')}
+              style={{position: 'absolute', bottom: 24, right: 24}}
+            />
+          </View>
         </View>
       </View>
     </View>
@@ -43,5 +104,21 @@ const style = StyleSheet.create({
     backgroundColor: ThemeColor.primary,
     height: 150,
     borderRadius: 20,
+    marginBottom: 24,
+    // shadowColor: '#51C3FF',
+    // elevation: 5,
+  },
+  menuWrapper: {
+    flexDirection: 'row',
+    flex: 2,
+    justifyContent: 'space-between',
+    flexWrap: 'wrap',
+  },
+  menu: {
+    height: 170,
+    width: '45%',
+    borderRadius: 20,
+    marginBottom: 24,
+    padding: 24,
   },
 });

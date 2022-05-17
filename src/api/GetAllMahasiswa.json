@@ -1,0 +1,3878 @@
+[
+  {
+    "nim": "1441177004011",
+    "nama": "Akhsanal Hafizd",
+    "noHp": "",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000211",
+      "email": "Akhsanal211@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1441177004016",
+    "nama": "Kardiatna",
+    "noHp": "6289662926130",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000068",
+      "email": "Kardiatna068@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004046",
+    "nama": "Imam Najmudin",
+    "noHp": "6282233336956",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000069",
+      "email": "Imam069@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004049",
+    "nama": "Muhamad Rifki",
+    "noHp": "6281384812460",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000114",
+      "email": "Muhamad114@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004065",
+    "nama": "Muhamad Aldio Mataufani",
+    "noHp": "628974839385",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000070",
+      "email": "Muhamad070@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004075",
+    "nama": "Saddam Gozali",
+    "noHp": "6285782540401",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000071",
+      "email": "Saddam071@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004079",
+    "nama": "Ridwan Fadilah",
+    "noHp": "8988781792",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000137",
+      "email": "Ridwan137@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004086",
+    "nama": "Agung Maulana",
+    "noHp": "82299754456",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000072",
+      "email": "Agung072@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "D",
+      "name": "Sudah Kolokium, Revisi Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004091",
+    "nama": "Heru Sahputro",
+    "noHp": "6281289450262",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000152",
+      "email": "Heru152@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004103",
+    "nama": "Karma",
+    "noHp": "6289636082936",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000073",
+      "email": "Karma073@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "D",
+      "name": "Sudah Kolokium, Revisi Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004107",
+    "nama": "Dyah Ayu Wulandari",
+    "noHp": "",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000245",
+      "email": "Dyah245@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004121",
+    "nama": "Ejang Casmita",
+    "noHp": "8973817455",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000058",
+      "email": "Ejang058@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1441177004159",
+    "nama": "Dika Ardian Pangestu",
+    "noHp": "85716360828",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000038",
+      "email": "Dika038@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1441177004168",
+    "nama": "Teguh Eriyanto Nugroho",
+    "noHp": "",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000212",
+      "email": "Teguh212@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004169",
+    "nama": "Yudi Raharjo",
+    "noHp": "6285770111856",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000074",
+      "email": "Yudi074@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004174",
+    "nama": "Muhammad Andri Wardika",
+    "noHp": "6282213491358",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000138",
+      "email": "Muhammad138@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004187",
+    "nama": "Edi Sunarso",
+    "noHp": "6285714606660",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000153",
+      "email": "Edi153@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004205",
+    "nama": "Jason WIldan Ramdhany",
+    "noHp": "85819312771",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000154",
+      "email": "Jason154@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004208",
+    "nama": "Mochammad Gagah Satria",
+    "noHp": "81383048357",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000139",
+      "email": "Mochammad139@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004245",
+    "nama": "Faishal Ikhsan",
+    "noHp": "6289660749762",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000155",
+      "email": "Faishal155@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1441177004261",
+    "nama": "Mutovingah",
+    "noHp": "6281314274887",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000140",
+      "email": "Mutovingah140@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1441177004265",
+    "nama": "Hikmah Rusman Pratama",
+    "noHp": "",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000227",
+      "email": "Hikmah227@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004282",
+    "nama": "Sur Kuati",
+    "noHp": "6285693305424",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000188",
+      "email": "Sur188@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004319",
+    "nama": "Bakthiar Heryatna",
+    "noHp": "812818147589",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000115",
+      "email": "Bakthiar115@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1441177004335",
+    "nama": "Irawati Debora Saragih",
+    "noHp": "6285892825996",
+    "tahunMasuk": "2014",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000156",
+      "email": "Irawati156@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1510631170004",
+    "nama": "Adam Mutholib",
+    "noHp": "6285886599438",
+    "tahunMasuk": "2015",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000136",
+      "email": "Adam136@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1510631170025",
+    "nama": "Aulia Silvilakmal",
+    "noHp": "6285693238759",
+    "tahunMasuk": "2015",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000075",
+      "email": "Aulia075@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1510631170048",
+    "nama": "Fajar Kurnia Ramadhan",
+    "noHp": "",
+    "tahunMasuk": "2015",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000234",
+      "email": "Fajar234@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1510631170149",
+    "nama": "Warta",
+    "noHp": "85695559011",
+    "tahunMasuk": "2015",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000076",
+      "email": "Warta076@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170011",
+    "nama": "Adhitya Faturrahman",
+    "noHp": "85217844434",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000077",
+      "email": "Adhitya077@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170033",
+    "nama": "Alvian Septiana",
+    "noHp": "",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000244",
+      "email": "Alvian244@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1610631170038",
+    "nama": "Andri Ahmad Fauzi",
+    "noHp": "6282127052607",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000039",
+      "email": "Andri039@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170048",
+    "nama": "Attar",
+    "noHp": "81908167875",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000189",
+      "email": "Attar189@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "D",
+      "name": "Sudah Kolokium, Revisi Skripsi"
+    }
+  },
+  {
+    "nim": "1610631170056",
+    "nama": "Bayu Okta Krisdianto",
+    "noHp": "6285781413752",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000040",
+      "email": "Bayu040@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170065",
+    "nama": "Desy Anggraeni",
+    "noHp": "89614977181",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000041",
+      "email": "Desy041@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170072",
+    "nama": "Dillar Fawashandy",
+    "noHp": "1610631170072",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000042",
+      "email": "Dillar042@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170073",
+    "nama": "Dimas Adhityawan",
+    "noHp": "81282011918",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000043",
+      "email": "Dimas043@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170079",
+    "nama": "Fachmi Adam",
+    "noHp": "81317655949",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000044",
+      "email": "Fachmi044@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170080",
+    "nama": "Fahri Arigi",
+    "noHp": "6281319724007",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000045",
+      "email": "Fahri045@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170086",
+    "nama": "Farid",
+    "noHp": "6285891483835",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000046",
+      "email": "Farid046@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170088",
+    "nama": "Febry Purnomo Aji",
+    "noHp": "6281383247063",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000116",
+      "email": "Febry116@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170089",
+    "nama": "Felix Buenami Sianturi",
+    "noHp": "",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000213",
+      "email": "Felix213@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1610631170113",
+    "nama": "Imas Rismawati",
+    "noHp": "8567604629",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000047",
+      "email": "Imas047@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170117",
+    "nama": "Irham Maulana Aziz",
+    "noHp": "6289604603182",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000078",
+      "email": "Irham078@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170138",
+    "nama": "Marchelly Gideon Tambunan",
+    "noHp": "85156853871",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000048",
+      "email": "Marchelly048@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170158",
+    "nama": "Musnoka",
+    "noHp": "81398014116",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000049",
+      "email": "Musnoka049@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170161",
+    "nama": "Neshar Nugraha Jati",
+    "noHp": "6281385976084",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000050",
+      "email": "Neshar050@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170170",
+    "nama": "Ramadhan Nur Afif",
+    "noHp": "",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000235",
+      "email": "Ramadhan235@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1610631170182",
+    "nama": "Rijal Abdulhakim",
+    "noHp": "6282215688870",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000157",
+      "email": "Rijal157@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170221",
+    "nama": "Vicky Chandra",
+    "noHp": "6282234175325",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000190",
+      "email": "Vicky190@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1610631170225",
+    "nama": "Whina Jasmine Handayani",
+    "noHp": "6285697289035",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000051",
+      "email": "Whina051@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1610631170227",
+    "nama": "Yeni Andriyani",
+    "noHp": "",
+    "tahunMasuk": "2016",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000246",
+      "email": "Yeni246@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1710631170001",
+    "nama": "Dwi Latifah Rianti",
+    "noHp": "6283824953528",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000079",
+      "email": "Dwi079@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170002",
+    "nama": "Muhammad Farhan Fauzan",
+    "noHp": "6282258117783",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000052",
+      "email": "Muhammad052@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170003",
+    "nama": "Aan Rohanah",
+    "noHp": "62128419658",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000059",
+      "email": "Aan059@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170005",
+    "nama": "Alfanda Novebrian Maharadja",
+    "noHp": "628998229998",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000158",
+      "email": "Alfanda158@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170006",
+    "nama": "Muhamad Riyyan",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000228",
+      "email": "Muhamad228@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170007",
+    "nama": "Yunitasari",
+    "noHp": "6289604809803",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000080",
+      "email": "Yunitasari080@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170008",
+    "nama": "Anita",
+    "noHp": "6281363914058",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000081",
+      "email": "Anita081@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170009",
+    "nama": "Cepy Sukmayadi",
+    "noHp": "81514660603",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000183",
+      "email": "Cepy183@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "D",
+      "name": "Sudah Kolokium, Revisi Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170010",
+    "nama": "Ato Sugiharto",
+    "noHp": "6285782917289",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000117",
+      "email": "Ato117@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170011",
+    "nama": "Dewi Septiani",
+    "noHp": "89609278044",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000159",
+      "email": "Dewi159@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170012",
+    "nama": "M. Rayhan Rizqullah Syarif",
+    "noHp": "6281292934549",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000160",
+      "email": "Rayhan160@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170013",
+    "nama": "Nur Arifin",
+    "noHp": "6288908898882",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000118",
+      "email": "Nur118@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170014",
+    "nama": "Wening Tri Pangastuti",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000200",
+      "email": "Wening200@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170015",
+    "nama": "Syaza Dyah Utami",
+    "noHp": "6283804700830",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000053",
+      "email": "Syaza053@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170017",
+    "nama": "Aditiya Yoga Pratama",
+    "noHp": "6289533353152",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000082",
+      "email": "Aditiya082@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170019",
+    "nama": "Resti Noor Fahmi",
+    "noHp": "6289523251101",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000060",
+      "email": "Resti060@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170020",
+    "nama": "Sintia Safitri",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000214",
+      "email": "Sintia214@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170021",
+    "nama": "Muhammad Rizki Al-Fajri",
+    "noHp": "6281287661554",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000061",
+      "email": "Muhammad061@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170022",
+    "nama": "Hopi Siti Hopipah",
+    "noHp": "6285885813385",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000083",
+      "email": "Hopi083@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170023",
+    "nama": "Syekh Syihabuddin Azmil Umri",
+    "noHp": "6282218424650",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000161",
+      "email": "Syekh161@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170024",
+    "nama": "Bimo Aditya Wahyudi",
+    "noHp": "6283892314701",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000141",
+      "email": "Bimo141@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170025",
+    "nama": "Gugi Asgaruning",
+    "noHp": "628994949911",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000119",
+      "email": "Gugi119@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170027",
+    "nama": "Silvana Fitria Mandang",
+    "noHp": "6289652344675",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000120",
+      "email": "Silvana120@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170028",
+    "nama": "Euis Saraswati",
+    "noHp": "6285892770714",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000084",
+      "email": "Euis084@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170029",
+    "nama": "Isnin Apriyatin Ropikoh",
+    "noHp": "6281909971324",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000121",
+      "email": "Isnin121@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170030",
+    "nama": "Abdurahman Azis Lasawali",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000243",
+      "email": "Abdurahman243@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170031",
+    "nama": "Abil Qudury",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000215",
+      "email": "Abil215@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170032",
+    "nama": "Abimanyu Widhiantoyo",
+    "noHp": "6281384550115",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000085",
+      "email": "Abimanyu085@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170033",
+    "nama": "Achmad Rizaldi Putra",
+    "noHp": "85773420891",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000086",
+      "email": "Achmad086@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170035",
+    "nama": "Adi Kurniawan",
+    "noHp": "6589537565999",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000062",
+      "email": "Adi062@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170036",
+    "nama": "Adimas Fikri Ramadhani",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000216",
+      "email": "Adimas216@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170037",
+    "nama": "Aditya Iriawan Pratama Aji",
+    "noHp": "687876153263",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000185",
+      "email": "Aditya185@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "D",
+      "name": "Sudah Kolokium, Revisi Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170038",
+    "nama": "Adri Firdiansyah",
+    "noHp": "81542939815",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000162",
+      "email": "Adri162@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170039",
+    "nama": "Agil Santosa",
+    "noHp": "82135399062",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000122",
+      "email": "Agil122@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170040",
+    "nama": "Ahmad Dani",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000236",
+      "email": "Ahmad236@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170041",
+    "nama": "Akmal Rizalludin",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000217",
+      "email": "Akmal217@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170042",
+    "nama": "Alamsyah Robiul Hidayat",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000202",
+      "email": "Alamsyah202@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170045",
+    "nama": "Alfian Yunianto Suseno",
+    "noHp": "6282213515619",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000123",
+      "email": "Alfian123@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170046",
+    "nama": "Alfin Miftahudin",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000237",
+      "email": "Alfin237@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170047",
+    "nama": "Alifa Puteri Bilqis Salsabila",
+    "noHp": "6283874038882",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000087",
+      "email": "Alifa087@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170048",
+    "nama": "Aliffia Kulsumarwati",
+    "noHp": "6289639555633",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000163",
+      "email": "Aliffia163@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170049",
+    "nama": "Amelia Isnanda",
+    "noHp": "6289535424091",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000164",
+      "email": "Amelia164@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170050",
+    "nama": "Amelia Pratiwi",
+    "noHp": "81398549623",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000165",
+      "email": "Amelia165@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170051",
+    "nama": "Aminatuzzuhriyyah",
+    "noHp": "6283814585709",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000088",
+      "email": "Aminatuzzuhriyyah088@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170052",
+    "nama": "Andhika Putra Utama Rahmayadi",
+    "noHp": "6289533254834",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000142",
+      "email": "Andhika142@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170056",
+    "nama": "Andri Dwi Noviandi",
+    "noHp": "6285156594018",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000178",
+      "email": "Andri178@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170057",
+    "nama": "Anggito Wicaksono",
+    "noHp": "89629789311",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000089",
+      "email": "Anggito089@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170058",
+    "nama": "Anisa Fira",
+    "noHp": "6282110102773",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000143",
+      "email": "Anisa143@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170059",
+    "nama": "Ardhi Fadlika Satria",
+    "noHp": "81389760575",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000144",
+      "email": "Ardhi144@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170060",
+    "nama": "Aria Renalda Ramadikusumah",
+    "noHp": "82249005572",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000166",
+      "email": "Aria166@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170061",
+    "nama": "Arvin Kynan Pratama",
+    "noHp": "6281398870103",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000090",
+      "email": "Arvin090@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170063",
+    "nama": "Ayu Oktavia Nugraha",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000238",
+      "email": "Ayu238@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170064",
+    "nama": "Ayu Shafira Tubagus",
+    "noHp": "85881350949",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000124",
+      "email": "Ayu124@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170065",
+    "nama": "Bagus Muhammad Islami",
+    "noHp": "6285887699749",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000091",
+      "email": "Bagus091@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170067",
+    "nama": "Bayu Adhi Pamungkas",
+    "noHp": "82242484585",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000092",
+      "email": "Bayu092@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170068",
+    "nama": "Bayu Laksono Wahyu Arminsyah",
+    "noHp": "85812022950",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000125",
+      "email": "Bayu125@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170070",
+    "nama": "Bidin Alamsyah",
+    "noHp": "6288707720506",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000167",
+      "email": "Bidin167@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170071",
+    "nama": "Bintang Sifa Amalia",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000239",
+      "email": "Bintang239@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170073",
+    "nama": "Bustamil Aripin",
+    "noHp": "625719764586",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000191",
+      "email": "Bustamil191@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170074",
+    "nama": "Candra Suryana Natadirja",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000218",
+      "email": "Candra218@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170083",
+    "nama": "Daru Fajar Laksono",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000219",
+      "email": "Daru219@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170084",
+    "nama": "Dhea Indahsari",
+    "noHp": "6289668933647",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000093",
+      "email": "Dhea093@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170085",
+    "nama": "Dinda Fitriani",
+    "noHp": "85777517316",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000094",
+      "email": "Dinda094@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170086",
+    "nama": "Dwi Septa Kariza",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000203",
+      "email": "Dwi203@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170087",
+    "nama": "Dyas Rahma Putri",
+    "noHp": "628996280841",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000095",
+      "email": "Dyas095@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170088",
+    "nama": "Elin Nurlia",
+    "noHp": "6289560400901",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000063",
+      "email": "Elin063@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170089",
+    "nama": "Emilia Ayu Wijayanti",
+    "noHp": "85882288537",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000096",
+      "email": "Emilia096@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170090",
+    "nama": "Erly Dwi Ariyanti",
+    "noHp": "6289643750036",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000054",
+      "email": "Erly054@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170095",
+    "nama": "Fauzan Alghifari",
+    "noHp": "81316688991",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000097",
+      "email": "Fauzan097@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170096",
+    "nama": "Fauzan Haq",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000247",
+      "email": "Fauzan247@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1710631170097",
+    "nama": "Febbyola Rezkika",
+    "noHp": "6289658082219",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000135",
+      "email": "Febbyola135@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170098",
+    "nama": "Febriandika Dian Nurcahyo",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000204",
+      "email": "Febriandika204@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170099",
+    "nama": "Fida Nafisah Giustin",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000205",
+      "email": "Fida205@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170100",
+    "nama": "Fiqri Pratama Latief",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000229",
+      "email": "Fiqri229@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170101",
+    "nama": "Fitria Septianingrum",
+    "noHp": "6289620431412",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000098",
+      "email": "Fitria098@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170102",
+    "nama": "Fuza Putra Arwanda",
+    "noHp": "6289563543378",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000126",
+      "email": "Fuza126@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170103",
+    "nama": "Giat Subroto",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000240",
+      "email": "Giat240@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170104",
+    "nama": "Gilar Bayu Masaid",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000198",
+      "email": "Gilar198@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170105",
+    "nama": "Gita Marini Sukma",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000230",
+      "email": "Gita230@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170106",
+    "nama": "Hadratussyah Dafa Ibrahim",
+    "noHp": "6281218506997",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000196",
+      "email": "Hadratussyah196@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170108",
+    "nama": "Hafiz Pratama S Nawawi",
+    "noHp": "6281367413785",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000099",
+      "email": "Hafiz099@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170109",
+    "nama": "Haviz Atma Negara",
+    "noHp": "6285881583901",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000100",
+      "email": "Haviz100@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170111",
+    "nama": "Iip Supiyani",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000220",
+      "email": "Iip220@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170112",
+    "nama": "Ikhwan Wiratama Putra",
+    "noHp": "82246101540",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000101",
+      "email": "Ikhwan101@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170113",
+    "nama": "Imam Yusup",
+    "noHp": "6289507002770",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000102",
+      "email": "Imam102@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170116",
+    "nama": "Ismi Aprilianti Permatasari",
+    "noHp": "6281280256132",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000179",
+      "email": "Ismi179@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170121",
+    "nama": "Jomanson Matondang",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000221",
+      "email": "Jomanson221@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170123",
+    "nama": "Loemongga Oktaria Sihombing",
+    "noHp": "89685395375",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000187",
+      "email": "Loemongga187@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "D",
+      "name": "Sudah Kolokium, Revisi Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170126",
+    "nama": "Maulana Hafidz Andhika",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000222",
+      "email": "Maulana222@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170129",
+    "nama": "Mia Nuranti Putri Pamulang",
+    "noHp": "6289533247947",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000103",
+      "email": "Mia103@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170130",
+    "nama": "Mia Nuur Aini",
+    "noHp": "6289535308117",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000064",
+      "email": "Mia064@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170131",
+    "nama": "Miftah Fariedh Andriansyah",
+    "noHp": "6281211701590",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000192",
+      "email": "Miftah192@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170132",
+    "nama": "Mifahul Faizin",
+    "noHp": "6283815812111",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000193",
+      "email": "Mifahul193@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170133",
+    "nama": "Moch. Khaidar Elhaq",
+    "noHp": "6289656298322",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000065",
+      "email": "Khaidar065@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170137",
+    "nama": "Mohammad Esa Salsabila",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000241",
+      "email": "Mohammad241@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170139",
+    "nama": "Muammar Fahraz Pratama",
+    "noHp": "81381694582",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000180",
+      "email": "Muammar180@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170142",
+    "nama": "Muhamad Saenudin",
+    "noHp": "6287788750409",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000127",
+      "email": "Muhamad127@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170143",
+    "nama": "Muhammad Ardiansyah",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000207",
+      "email": "Muhammad207@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170146",
+    "nama": "Muhammad Fabio Armandani",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000208",
+      "email": "Muhammad208@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170147",
+    "nama": "Muhammad Fajar Estu Nugroho",
+    "noHp": "6285814400521",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000055",
+      "email": "Muhammad055@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170150",
+    "nama": "Muhammad Ichsanudin Alfaizi",
+    "noHp": "81286295182",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000168",
+      "email": "Muhammad168@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170151",
+    "nama": "Muhammad Rafi Ilyasa Kurniady",
+    "noHp": "6281294324577",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000169",
+      "email": "Muhammad169@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170152",
+    "nama": "Muhammad Rizky",
+    "noHp": "6282190403017",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000104",
+      "email": "Muhammad104@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170155",
+    "nama": "Muhammad Syam Firdaus",
+    "noHp": "6289625703806",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000128",
+      "email": "Muhammad128@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170156",
+    "nama": "Muhammad Yanur Ghoffaar",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000209",
+      "email": "Muhammad209@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170159",
+    "nama": "Nathalia Shelin Panjaitan",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000223",
+      "email": "Nathalia223@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170162",
+    "nama": "Nisa Nafisah",
+    "noHp": "6282123912317",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000170",
+      "email": "Nisa170@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170164",
+    "nama": "Novi Widiawati",
+    "noHp": "6285718267331",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000171",
+      "email": "Novi171@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170165",
+    "nama": "Noviya Adawiyah",
+    "noHp": "6289526529876",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000182",
+      "email": "Noviya182@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170166",
+    "nama": "Nur Maelani Asih",
+    "noHp": "6285526287646",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000172",
+      "email": "Nur172@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170167",
+    "nama": "Nurlana Sanjaya",
+    "noHp": "6289609649782",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000056",
+      "email": "Nurlana056@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170168",
+    "nama": "Nursyifa",
+    "noHp": "81519158321",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000106",
+      "email": "Nursyifa106@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170169",
+    "nama": "Olivia Immanuela Massie",
+    "noHp": "6282298551641",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000145",
+      "email": "Olivia145@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170170",
+    "nama": "Rafi Augie Ramadhan",
+    "noHp": "6281330083310",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000129",
+      "email": "Rafi129@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170171",
+    "nama": "Raihan Fadlurrahman Mucdyansyah",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000231",
+      "email": "Raihan231@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170172",
+    "nama": "Raka Putra Eshardiansyah",
+    "noHp": "81219197154",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000107",
+      "email": "Raka107@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170173",
+    "nama": "Ramadhan Dwi Putra",
+    "noHp": "6289691048799",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000066",
+      "email": "Ramadhan066@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170175",
+    "nama": "Renaldi Adha Nawawi",
+    "noHp": "628999368093",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000146",
+      "email": "Renaldi146@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170176",
+    "nama": "Rendy Galih Saputra",
+    "noHp": "6281911846016",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000147",
+      "email": "Rendy147@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170177",
+    "nama": "Reza Rizqi Ramdhani",
+    "noHp": "6282213027918",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000148",
+      "email": "Reza148@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170179",
+    "nama": "Ricky Avif Setiawan",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000232",
+      "email": "Ricky232@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170180",
+    "nama": "Rika Desma Yunita",
+    "noHp": "89501879390",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000195",
+      "email": "Rika195@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170181",
+    "nama": "Rika Nursyahfitri",
+    "noHp": "6285717763533",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000108",
+      "email": "Rika108@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170184",
+    "nama": "Riva Arsyad Farissa",
+    "noHp": "628991209261",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000149",
+      "email": "Riva149@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170185",
+    "nama": "Rival Supriadi",
+    "noHp": "6289666834954",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000150",
+      "email": "Rival150@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170187",
+    "nama": "Rizal Firdaus",
+    "noHp": "895354241204",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000173",
+      "email": "Rizal173@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170188",
+    "nama": "Rizky Fajar Sholeh",
+    "noHp": "6287889524264",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000181",
+      "email": "Rizky181@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170189",
+    "nama": "Rizky Syaputra",
+    "noHp": "6289518481079",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000174",
+      "email": "Rizky174@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170190",
+    "nama": "Rizqi Rahmansyah",
+    "noHp": "628568464832",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000057",
+      "email": "Rizqi057@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170191",
+    "nama": "Ryandi Johansah Pratama",
+    "noHp": "6283863512516",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000130",
+      "email": "Ryandi130@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170193",
+    "nama": "Safa Descane Arsyendyassi",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000224",
+      "email": "Safa224@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170194",
+    "nama": "Salsabila Aini Rahmah",
+    "noHp": "89507595630",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000109",
+      "email": "Salsabila109@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170195",
+    "nama": "Samsul Arif Zulvian",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000233",
+      "email": "Samsul233@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170196",
+    "nama": "Satria Adi Nugroho",
+    "noHp": "6285889726327",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000110",
+      "email": "Satria110@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170197",
+    "nama": "Sausan Hani",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000199",
+      "email": "Sausan199@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170198",
+    "nama": "Sekar Arum Nurhusni",
+    "noHp": "6281282423567",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000151",
+      "email": "Sekar151@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170200",
+    "nama": "Sifa Amalia Purnamasari",
+    "noHp": "8989237748",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000111",
+      "email": "Sifa111@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170201",
+    "nama": "Siti Badriah",
+    "noHp": "6285843822808",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000067",
+      "email": "Siti067@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170202",
+    "nama": "Tania Fatiah Rahmadanti",
+    "noHp": "6289608370473",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000131",
+      "email": "Tania131@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170203",
+    "nama": "Teguh Bahari",
+    "noHp": "6285886812015",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000175",
+      "email": "Teguh175@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170204",
+    "nama": "Thalita Meisya Permata Aulia",
+    "noHp": "83816147325",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000112",
+      "email": "Thalita112@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170205",
+    "nama": "Tiara Syilfa",
+    "noHp": "6281380922523",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000134",
+      "email": "Tiara134@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170207",
+    "nama": "Titus Kurniawan",
+    "noHp": "6281289819269",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000113",
+      "email": "Titus113@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170211",
+    "nama": "Vina Yanuar Prasasti",
+    "noHp": "6289694260568",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000132",
+      "email": "Vina132@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170212",
+    "nama": "Wahyu Rudiansyah",
+    "noHp": "6281314706939",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000176",
+      "email": "Wahyu176@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170214",
+    "nama": "Wahyuningrum",
+    "noHp": "6285692604838",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000194",
+      "email": "Wahyuningrum194@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170216",
+    "nama": "Willyam Septyanto",
+    "noHp": "6282298630836",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000177",
+      "email": "Willyam177@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170217",
+    "nama": "Yeyen Maelani",
+    "noHp": "6282128725636",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000133",
+      "email": "Yeyen133@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "E",
+      "name": "Sudah Yudisium (Lulus)"
+    }
+  },
+  {
+    "nim": "1710631170218",
+    "nama": "Yogi Hambali",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000248",
+      "email": "Yogi248@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "A",
+      "name": "Belum Seminar Proposal"
+    }
+  },
+  {
+    "nim": "1710631170219",
+    "nama": "Yulika Itamar",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000242",
+      "email": "Yulika242@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "B",
+      "name": "Sudah Seminar Proposal Lanjut Revisi Proposal"
+    }
+  },
+  {
+    "nim": "1710631170220",
+    "nama": "Yuyun Yuningsih",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000225",
+      "email": "Yuyun225@student.unsika.ac.id",
+      "gender": "Perempuan"
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  },
+  {
+    "nim": "1710631170221",
+    "nama": "Yuzril Nur Maulana",
+    "noHp": "",
+    "tahunMasuk": "2017",
+    "programStudi": {
+      "id": "1",
+      "name": "Teknik Informatika"
+    },
+    "user": {
+      "id": "U0000226",
+      "email": "Yuzril226@student.unsika.ac.id",
+      "gender": ""
+    },
+    "statusMahasiswa": {
+      "id": "C",
+      "name": "Sudah Kumpulkan Revisi  Proposalnya Lanjut Diplot Pembimbing 1 dan 2 - Level Skripsi"
+    }
+  }
+]

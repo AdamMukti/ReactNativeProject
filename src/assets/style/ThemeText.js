@@ -19,7 +19,7 @@ export default StyleSheet.create({
   },
   textMuted: {
     fontSize: 18,
-    fontWeight: '400',
+    fontWeight: '500',
     color: ThemeColor.secondary,
   },
 });
