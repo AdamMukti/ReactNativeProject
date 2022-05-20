@@ -7,16 +7,20 @@ import {
   FlatList,
   TouchableOpacity,
 } from 'react-native';
-import React, {useEffect} from 'react';
+import React, {useState, useEffect} from 'react';
 import Style from '../assets/style/Styles';
 import SearchIcon from '../assets/icon/search.png';
 import ThemeText from '../assets/style/ThemeText';
 import ThemeColor from '../assets/style/ThemeColor';
 import StatusComponents from '../components/StatusComponents';
-// import getAllMahasiswa from '../api/GetAllMahasiswa.json';
 
 const Mahasiswa = ({navigation}) => {
-  const getAllMahasiswa = require('../api/GetAllMahasiswa.json');
+  const [mahasiswaList, setMahasiswaList] = useState([]);
+  const mahasiswa = require('../api/GetAllMahasiswa.json');
+  useEffect(() => {
+    setMahasiswaList(mahasiswa);
+  }, []);
+
   React.useLayoutEffect(() => {
     navigation.setOptions({
       headerTintColor: '#ffffff',
@@ -26,6 +30,20 @@ const Mahasiswa = ({navigation}) => {
       },
     });
   }, [navigation]);
+
+  const runFilter = keyword => {
+    console.log(keyword);
+    if (keyword) {
+      const filteredData = mahasiswa.filter(function (item) {
+        const itemData = item.nama ? item.nama.toUpperCase() : ''.toUpperCase();
+        const textData = keyword.toUpperCase();
+        return itemData.indexOf(textData) > -1;
+      });
+      setMahasiswaList(filteredData);
+    } else {
+      setMahasiswaList(mahasiswa);
+    }
+  };
 
   const renderListMahasiswa = ({item}) => {
     return (
@@ -68,6 +86,7 @@ const Mahasiswa = ({navigation}) => {
             placeholder="Search mahasiswa"
             placeholderTextColor={ThemeColor.secondary}
             style={style.textSearchStyle}
+            onChangeText={text => runFilter(text)}
           />
         </View>
         <View
@@ -82,12 +101,12 @@ const Mahasiswa = ({navigation}) => {
           </View>
           <View style={{flex: 1, alignItems: 'flex-end'}}>
             <Text style={[ThemeText.textMuted]}>
-              {getAllMahasiswa.length} Items
+              {mahasiswaList.length} Items
             </Text>
           </View>
         </View>
         <FlatList
-          data={getAllMahasiswa}
+          data={mahasiswaList}
           renderItem={renderListMahasiswa}
           keyExtractor={item => item.nim.toString()}
         />
