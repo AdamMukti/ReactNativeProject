@@ -15,8 +15,8 @@ import ThemeColor from '../assets/style/ThemeColor';
 import StatusComponents from '../components/StatusComponents';
 
 const Mahasiswa = ({navigation}) => {
-  const [mahasiswaList, setMahasiswaList] = useState([]);
-  const mahasiswa = require('../api/GetAllMahasiswa.json');
+  let [mahasiswaList, setMahasiswaList] = useState([]);
+  let mahasiswa = require('../api/GetAllMahasiswa.json');
   useEffect(() => {
     setMahasiswaList(mahasiswa);
   }, []);
@@ -31,18 +31,24 @@ const Mahasiswa = ({navigation}) => {
     });
   }, [navigation]);
 
+
+
+
+
+
+
   const runFilter = keyword => {
-    console.log(keyword);
+    let result;
     if (keyword) {
+      const textData = keyword.toLowerCase();
       const filteredData = mahasiswa.filter(function (item) {
-        const itemData = item.nama ? item.nama.toUpperCase() : ''.toUpperCase();
-        const textData = keyword.toUpperCase();
-        return itemData.indexOf(textData) > -1;
+        return item.nama.toLowerCase().indexOf(textData) > -1;
       });
-      setMahasiswaList(filteredData);
+      result = filteredData;
     } else {
-      setMahasiswaList(mahasiswa);
+      result = mahasiswa;
     }
+    setMahasiswaList(result);
   };
 
   const renderListMahasiswa = ({item}) => {

@@ -5,6 +5,7 @@ import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import Homepage from './src/pages/Homepage';
 import Mahasiswa from './src/pages/Mahasiswa';
 import DetailMahasiswa from './src/pages/DetailMahasiswa';
+import NotFoundPage from './src/pages/NotFoundPage';
 
 const Stack = createNativeStackNavigator();
 
@@ -19,6 +20,7 @@ const App = () => {
         />
         <Stack.Screen name="Mahasiswa" component={Mahasiswa} />
         <Stack.Screen name="DetailMahasiswa" component={DetailMahasiswa} />
+        <Stack.Screen name="NotFoundPage" component={NotFoundPage} />
       </Stack.Navigator>
     </NavigationContainer>
   );

@@ -26,7 +26,7 @@ const Homepage = ({navigation}) => {
           <View style={[style.hero, {flexDirection: 'row'}]}>
             <View style={{padding: 24}}>
               <Text style={ThemeText.textTitle}>Mahasiswa</Text>
-              <Text style={[ThemeText.textHeading, {fontSize: 48}]}>1232</Text>
+              <Text style={[ThemeText.textHeading, {fontSize: 48}]}>204</Text>
             </View>
             <Image
               source={require('../assets/icon/arrowRightLight.png')}
@@ -35,56 +35,64 @@ const Homepage = ({navigation}) => {
           </View>
         </TouchableOpacity>
         <View style={style.menuWrapper}>
-          <View style={[{backgroundColor: '#FFF5E9'}, style.menu]}>
+          <TouchableOpacity
+            onPress={() => navigation.navigate('NotFoundPage')}
+            style={[{backgroundColor: '#FFF5E9'}, style.menu]}>
             <Text style={[ThemeText.textTitle, {color: '#D9C0AB'}]}>Dosen</Text>
             <Text
               style={[ThemeText.textHeading, {color: '#D29B74', fontSize: 36}]}>
-              1234
+              123
             </Text>
             <Image
               source={require('../assets/icon/arrowRightDark.png')}
               style={{position: 'absolute', bottom: 24, right: 24}}
             />
-          </View>
-          <View style={[{backgroundColor: '#EBFAFF'}, style.menu]}>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={() => navigation.navigate('NotFoundPage')}
+            style={[{backgroundColor: '#EBFAFF'}, style.menu]}>
             <Text style={[ThemeText.textTitle, {color: '#B6D2D8'}]}>
               Proposal
             </Text>
             <Text
               style={[ThemeText.textHeading, {color: '#5DABC1', fontSize: 36}]}>
-              1234
+              123
             </Text>
             <Image
               source={require('../assets/icon/arrowRightDark.png')}
               style={{position: 'absolute', bottom: 24, right: 24}}
             />
-          </View>
-          <View style={[{backgroundColor: '#F7F4FF'}, style.menu]}>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={() => navigation.navigate('NotFoundPage')}
+            style={[{backgroundColor: '#F7F4FF'}, style.menu]}>
             <Text style={[ThemeText.textTitle, {color: '#BEB3CE'}]}>
               Kolokium
             </Text>
             <Text
               style={[ThemeText.textHeading, {color: '#9073B4', fontSize: 36}]}>
-              1234
+              123
             </Text>
             <Image
               source={require('../assets/icon/arrowRightDark.png')}
               style={{position: 'absolute', bottom: 24, right: 24}}
             />
-          </View>
-          <View style={[{backgroundColor: '#F4FFFB'}, style.menu]}>
+          </TouchableOpacity>
+          <TouchableOpacity
+            onPress={() => navigation.navigate('NotFoundPage')}
+            style={[{backgroundColor: '#F4FFFB'}, style.menu]}>
             <Text style={[ThemeText.textTitle, {color: '#B6D0C5'}]}>
               Yudisium
             </Text>
             <Text
               style={[ThemeText.textHeading, {color: '#6FABA1', fontSize: 36}]}>
-              1234
+              123
             </Text>
             <Image
               source={require('../assets/icon/arrowRightDark.png')}
               style={{position: 'absolute', bottom: 24, right: 24}}
             />
-          </View>
+          </TouchableOpacity>
         </View>
       </View>
     </View>
@@ -120,5 +128,6 @@ const style = StyleSheet.create({
     borderRadius: 20,
     marginBottom: 24,
     padding: 24,
+    position: 'relative',
   },
 });
