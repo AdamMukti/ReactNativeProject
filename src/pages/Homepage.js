@@ -20,13 +20,13 @@ const Homepage = ({navigation}) => {
           Halo, Selamat datang di
         </Text>
         <Text style={[ThemeText.textHeading, style.textHeading]}>
-          SISTEM INFORMASI MANAJEMEN TUGAS AKHIR
+          {`SISTEM\nINFORMASI\nTUGAS AKHIR`}
         </Text>
         <TouchableOpacity onPress={() => navigation.navigate('Mahasiswa')}>
           <View style={[style.hero, {flexDirection: 'row'}]}>
             <View style={{padding: 24}}>
               <Text style={ThemeText.textTitle}>Mahasiswa</Text>
-              <Text style={[ThemeText.textHeading, {fontSize: 48}]}>204</Text>
+              <Text style={[ThemeText.textHeading, {fontSize: 48}]}>215</Text>
             </View>
             <Image
               source={require('../assets/icon/arrowRightLight.png')}
@@ -124,7 +124,7 @@ const style = StyleSheet.create({
   },
   menu: {
     height: 170,
-    width: '45%',
+    width: '47%',
     borderRadius: 20,
     marginBottom: 24,
     padding: 24,
