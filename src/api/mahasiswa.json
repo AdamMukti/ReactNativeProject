@@ -1,0 +1,1286 @@
+[
+  {
+    "npm": 1610631170191,
+    "nama": "Riswan Darmawan",
+    "pembimbing_proposal": "Didi Juardi, S.T., M.Kom.",
+    "judul_proposal": "Analisis Kinerja Jaringan Wifi Menggunakan Metode QoS Dalam Meningkatkan Pelayanan Masyarakat (Study Kasus :Kantor Desa Karangmulya)"
+  },
+  {
+    "npm": 1710631170118,
+    "nama": "Ival Algifari Pratama",
+    "pembimbing_proposal": "Tesa Nur Padilah, M.Sc.",
+    "judul_proposal": "Penerapan Data Mining untuk Mengidentifikasi Penyakit Anemia pada Ibu Hamil di Karawang dengan Menggunakan Algoritme Iterative Dichotomiser 3 (ID3)"
+  },
+  {
+    "npm": 1710631170149,
+    "nama": "Muhammad Hilmy Al Jauzy",
+    "pembimbing_proposal": "Garno, M.Kom.",
+    "judul_proposal": "Perancangan aplikasi Warteg.in dengan metode Location Based Service untuk pencarian warteg terdekat di Klari."
+  },
+  {
+    "npm": 1710631170154,
+    "nama": "Muhammad Ryantama Al Chaidar",
+    "pembimbing_proposal": "Kamal Prihandani, M.Kom.",
+    "judul_proposal": "Penerapan Metode User Centered Design Dalam Aplikasi Android Warteg.In"
+  },
+  {
+    "npm": 1710631170186,
+    "nama": "Rizal Fadilah",
+    "pembimbing_proposal": "Jajam Haerul Jaman, S.E., M.Kom",
+    "judul_proposal": "Perancangan Alat Kendali Suhu Ruangan Menggunakan Arduino dengan Metode Fuzzy Logic"
+  },
+  {
+    "npm": 1710631170199,
+    "nama": "Setyadi Nugroho Imamuddin",
+    "pembimbing_proposal": "Adhi Rizal,S.Pd., MT.",
+    "judul_proposal": "ANALISIS USER INTERFACE (UI) DAN USER EXPERIENCE (UX) PADA APLIKASI AHLIBISNIS.ID BERBASIS ISO 9241-210 MENGGUNAKAN METODE HEURISTIC EVALUATION DAN WEBUSE"
+  },
+  {
+    "npm": 1810631170001,
+    "nama": "Annisa Aulia Yulianti",
+    "pembimbing_proposal": "Nina Sulistiyowati, S.T., M.Kom.",
+    "judul_proposal": "Algoritma K-Medoids Untuk pengelompokkan Jumlah Donatur Setiap Bulan Pada Panti Asuhan Daarul Hasanah Karawang."
+  },
+  {
+    "npm": 1810631170002,
+    "nama": "Hardi Mahendra",
+    "pembimbing_proposal": "Nono Heryana, M.Kom.",
+    "judul_proposal": "Rancang Bangun Aplikasi Sosiometri Untuk Mengidentifikasi Siswa Terisolasi Studi Kasus SMA N 1 Malingping"
+  },
+  {
+    "npm": 1810631170003,
+    "nama": "Yusuf Supriyanto",
+    "pembimbing_proposal": "Hannie, S.Kom., MMSI.",
+    "judul_proposal": "Pengelompokan Penyakit Pada Pasien Berdasarkan Usia Dengan Algoritma K-Means dan k-medoids Clustering"
+  },
+  {
+    "npm": 1810631170004,
+    "nama": "Bella Aprianti",
+    "pembimbing_proposal": "Azhari Ali Ridha, S.Kom., MMSI.",
+    "judul_proposal": "Penentuan Penerima Bantuan Sosial Dana Desa (BLT DD) Pada Desa Warungbambu Menggunakan Algoritma Naive Bayes"
+  },
+  {
+    "npm": 1810631170005,
+    "nama": "Dinar Hasnan Hariri",
+    "pembimbing_proposal": "Hannie, S.Kom., MMSI.",
+    "judul_proposal": "Analisis User Experience pada Website Waste4Change Menggunakan Metode Single Easy Question"
+  },
+  {
+    "npm": 1810631170007,
+    "nama": "Annisa Nurjanah",
+    "pembimbing_proposal": "Arip Solehudin, M.Kom.",
+    "judul_proposal": "Sistem Pendukung Keputusan Penentuan Model Pembelajaran Untuk Guru Menggunakan Metode AHP"
+  },
+  {
+    "npm": 1810631170008,
+    "nama": "Putri Dwi Rahayu",
+    "pembimbing_proposal": "Budi Arif Dermawan, M.Kom.",
+    "judul_proposal": "Sistem Pakar untuk Mendiagnosa Hama dan Penyakit Tanaman Cabai Menggunakan Algoritma Forward Chaining"
+  },
+  {
+    "npm": 1810631170009,
+    "nama": "M. Ilhamsyah",
+    "pembimbing_proposal": "Ultach Enri, M.Kom.",
+    "judul_proposal": "Analisis Customer Churn Pada Agen Brilink"
+  },
+  {
+    "npm": 1810631170010,
+    "nama": "Muhammad Yusuf",
+    "pembimbing_proposal": "Aji Primajaya, S.Si., M.Kom.",
+    "judul_proposal": "Analisis Perbandingan (Performa / User Experience) Antara Progressive Web Apps dengan Native Mobile Apps Pada Platform Mobile Android"
+  },
+  {
+    "npm": 1810631170011,
+    "nama": "Andreanov Ridhovan",
+    "pembimbing_proposal": "Aries Suharso, S.Si., M.Kom.",
+    "judul_proposal": "Deteksi Penyakit Pada Daun Tanaman Pisang Menggunakan Metode Transfer Learning"
+  },
+  {
+    "npm": 1810631170012,
+    "nama": "Nani Awalia",
+    "pembimbing_proposal": "Budi Arif Dermawan, M.Kom.",
+    "judul_proposal": "Analisis Perbandingan Arsitektur ResNet dan DenseNet pada Algoritma Convolutional Neural Network dalam Klasifikasi Citra Kualitas Beras"
+  },
+  {
+    "npm": 1810631170013,
+    "nama": "Rizqi Abdul Rafi",
+    "pembimbing_proposal": "Nina Sulistiyowati, S.T., M.Kom.",
+    "judul_proposal": "Mendiagnosa Kecanduan Belanja Online Menggunakan Metode Sistem Pakar"
+  },
+  {
+    "npm": 1810631170014,
+    "nama": "Eno Hakimah Kusuma Dewi",
+    "pembimbing_proposal": "Aries Suharso, S.Si., M.Kom.",
+    "judul_proposal": "Analisis Investigasi Cyberbullying pada Twitter dengan Metode NIST"
+  },
+  {
+    "npm": 1810631170015,
+    "nama": "Diah Komalasari",
+    "pembimbing_proposal": "Tesa Nur Padilah, M.Sc.",
+    "judul_proposal": "Penentuan Kelayakan Penerima Rutilahu Menggunakan Klasifikasi Metode Naive Bayes"
+  },
+  {
+    "npm": 1810631170016,
+    "nama": "Luxanfakhri Dieno Putra",
+    "pembimbing_proposal": "Aji Primajaya, S.Si., M.Kom.",
+    "judul_proposal": "Penerapan Design Thinking Pada User Experience Untuk Mengurangi Dampak Technostress"
+  },
+  {
+    "npm": 1810631170017,
+    "nama": "Siti Amalia Latipah",
+    "pembimbing_proposal": "Adhi Rizal,S.Pd., MT.",
+    "judul_proposal": "Rancang Bangun Form Pembelian Urgent Berbasis Website (Studi Kasus : PT. Kalbe Morinaga Indonesia)"
+  },
+  {
+    "npm": 1810631170018,
+    "nama": "Chella Aprianti",
+    "pembimbing_proposal": "Ultach Enri, M.Kom.",
+    "judul_proposal": "ANALISIS DATA MINING INDEKS PERSEPSI KORUPSI (IPK) DENGAN TEKNIK CLUSTERING MENGGUNAKAN ALGORITMA K-MEANS (STUDI KASUS: PENGADILAN NEGERI KARAWANG KELAS 1 B)"
+  },
+  {
+    "npm": 1810631170019,
+    "nama": "Nadya Apriliani",
+    "pembimbing_proposal": "Agung Susilo Yuda Irawan, M.Kom.",
+    "judul_proposal": "Analisis Perbandingan DNS-over-TLS dan DNS-over-HTPPS vs VPN"
+  },
+  {
+    "npm": 1810631170021,
+    "nama": "Muhammad Faishal",
+    "pembimbing_proposal": "Agung Susilo Yuda Irawan, M.Kom.",
+    "judul_proposal": "Mencegah Serangan Dhcp Rogue Pada Jaringan Komputer Menggunakan Dhcp Snooping"
+  },
+  {
+    "npm": 1810631170022,
+    "nama": "Rizky Darmawan",
+    "pembimbing_proposal": "Nono Heryana, M.Kom.",
+    "judul_proposal": "Analisis User Experience (UX) Pada Website Universitas Singaperbangsa Karawang Menggunakan Metode Cognitive Walkthrough (CW)"
+  },
+  {
+    "npm": 1810631170023,
+    "nama": "Rudi Nurwanto",
+    "pembimbing_proposal": "Asep Jamaludin, S.Si., M.Kom.",
+    "judul_proposal": "Penerapan Data Mining Untuk Menentukan Strategi Penjualan Dengan Algoritma Naive Bayes (Studi Kasus : D'Sruput Palumbonsari Karawang)"
+  },
+  {
+    "npm": 1810631170024,
+    "nama": "Wira Buana",
+    "pembimbing_proposal": "Riza Ibnu Adam, M.Si.",
+    "judul_proposal": "Analisis sentimen aplikasi pada play store dengan metode SVM"
+  },
+  {
+    "npm": 1810631170025,
+    "nama": "Ilham Hidayatullah",
+    "pembimbing_proposal": "Didi Juardi, S.T., M.Kom.",
+    "judul_proposal": "Analisis Dan Implementasi Manajemen Bandwidth Menggunakan Metode Antrian Peer Connection Queue Pada Warung Caffe Zahwa"
+  },
+  {
+    "npm": 1810631170026,
+    "nama": "Fatimah Tunzahro",
+    "pembimbing_proposal": "M. Jajuli, M.Si.",
+    "judul_proposal": "Penerapan Clustering K-Means Pada Produktivitas Padi di Provinsi Jawa Barat"
+  },
+  {
+    "npm": 1810631170027,
+    "nama": "Daffa Rafif Agustian",
+    "pembimbing_proposal": "Didi Juardi, S.T., M.Kom.",
+    "judul_proposal": "Klustering penyakit DBD dengan metode k-medoids"
+  },
+  {
+    "npm": 1810631170028,
+    "nama": "Rizky Rahmat Illahi",
+    "pembimbing_proposal": "Garno, M.Kom.",
+    "judul_proposal": "Prediksi Tingkat Pengangguran Pasca Pandemi Pada Desa Dawuan Barat Menggunakan Algoritma Naive Bayes"
+  },
+  {
+    "npm": 1810631170029,
+    "nama": "Aqillah Fadia Haya",
+    "pembimbing_proposal": "Betha Nurina Sari, M.Kom.",
+    "judul_proposal": "Klasifikasi Warga Layak Mendapatkan BLT COVID-19 Menggunakan Algoritma Naive Bayes(Studi Kasus : Balai Desa Kebandingan)"
+  },
+  {
+    "npm": 1810631170032,
+    "nama": "Rama Amanah",
+    "pembimbing_proposal": "Didi Juardi, S.T., M.Kom.",
+    "judul_proposal": "Penerapan Metode Multimedia Development Life Cycle Pada Multimedia Interaktif Pengenalan Hewan Untuk Siswa Sekolah Dasar"
+  },
+  {
+    "npm": 1810631170033,
+    "nama": "Rifzki Adiyaksa",
+    "pembimbing_proposal": "Aji Primajaya, S.Si., M.Kom.",
+    "judul_proposal": "Analisa User Experience Pada Aplikasi fintech Versi Android Di Indonesia"
+  },
+  {
+    "npm": 1810631170034,
+    "nama": "Nurul Rizki Octaviyani",
+    "pembimbing_proposal": "Rini Mayasari, M.Kom.",
+    "judul_proposal": "Mengelompokan Data Balita Peserta Posyandu Menggunakan Algoritma K-Means"
+  },
+  {
+    "npm": 1810631170035,
+    "nama": "Alfina Noviyanti",
+    "pembimbing_proposal": "Yuyun Umaidah, M.Kom.",
+    "judul_proposal": "Analisis Sentimen Pada Pembelajaran Daring Menggunakan Algoritma K-Nearest Neighbors"
+  },
+  {
+    "npm": 1810631170036,
+    "nama": "Nur Ajijah",
+    "pembimbing_proposal": "Susilawati, M.Si.",
+    "judul_proposal": "Analisis Pemetaan Wilayah di Kabupaten Karawang Terhadap Hasil Panen Berdasarkan Kualitas Tanaman Padi Menggunakan Metode K-Means"
+  },
+  {
+    "npm": 1810631170037,
+    "nama": "NIA KURNIA",
+    "pembimbing_proposal": "Rini Mayasari, M.Kom.",
+    "judul_proposal": "ANALISIS PERSEDIAAN STOK BARANG / MINGGU DI TOKO DEDEH GROCERY PADA IMPLEMENTASI DATA MINING DENGAN MENGGUNAKAN METODE ALGORITMA APRIORI."
+  },
+  {
+    "npm": 1810631170038,
+    "nama": "Sirojul Lael",
+    "pembimbing_proposal": "Rini Mayasari, M.Kom.",
+    "judul_proposal": "Implementasi UI/UX Pada Pembayaran pelanggan Menggunakan Metode user centered design (Studi kasus PT Atlas Lintas Indonesia)"
+  },
+  {
+    "npm": 1810631170039,
+    "nama": "Mutia Agustin",
+    "pembimbing_proposal": "Susilawati, M.Si.",
+    "judul_proposal": "Implementasi Sistem Pakar Dalam Mendiagnosa Gangguan Kesehatan Pada Ibu Hamil Dengan Menggunakan Metode Forward Chaining"
+  },
+  {
+    "npm": 1810631170040,
+    "nama": "Cika Oktavia",
+    "pembimbing_proposal": "Apriade Voutama, M.Kom.",
+    "judul_proposal": "Sistem Pakar Diagnosis Hama dan Penyakit Pada Tanaman Stroberi dengan Metode Forward Chaining"
+  },
+  {
+    "npm": 1810631170042,
+    "nama": "Arlan Maulana",
+    "pembimbing_proposal": "Nina Sulistiyowati, S.T., M.Kom.",
+    "judul_proposal": "Implementasi Sistem Pakar Dalam Mendiagnosa Depresi Pada Anak Usia Dini Dengan Metode Forward Chaining"
+  },
+  {
+    "npm": 1810631170043,
+    "nama": "Sukmawati",
+    "pembimbing_proposal": "Azhari Ali Ridha, S.Kom., MMSI.",
+    "judul_proposal": "Prediksi Sistem Pembayaran Yang paling diminati konsumen dengan algoritma C4.5 dalam mendukung pemasaran produk cv bunga utama"
+  },
+  {
+    "npm": 1810631170044,
+    "nama": "Dinda Nuralifah",
+    "pembimbing_proposal": "Adhi Rizal,S.Pd., MT.",
+    "judul_proposal": "Mengelompokan Data Peserta Didik Paud Bougenville Menggunakan Penerapan Data Algoritma K-Means"
+  },
+  {
+    "npm": 1810631170045,
+    "nama": "Riyanto",
+    "pembimbing_proposal": "Aries Suharso, S.Si., M.Kom.",
+    "judul_proposal": "Rancang Bangun Aplikasi Pembelajaran Dasar Untuk Anak Usia Dini Berbasis Augmented Reality"
+  },
+  {
+    "npm": 1810631170046,
+    "nama": "Muhammad Rian Ridwan",
+    "pembimbing_proposal": "Jajam Haerul Jaman, S.E., M.Kom.",
+    "judul_proposal": "Penerapan Data Mining Dengan Algoritma C4.5 Dalam Prediksi Penjualan Handphone Pada PT. Gumilar Celluler"
+  },
+  {
+    "npm": 1810631170047,
+    "nama": "Hilmy Farid",
+    "pembimbing_proposal": "Dadang Yusup, M.Kom.",
+    "judul_proposal": "Analisis Aplikasi Reservasi Terapis Baby Spa Untuk Meningkatkan User Experience Dengan Menggunakan Metode System Usability Scale"
+  },
+  {
+    "npm": 1810631170048,
+    "nama": "Destaria Wilandini",
+    "pembimbing_proposal": "Purwantoro, M.Kom.",
+    "judul_proposal": "Penerapan Algoritma Naive Bayes Untuk Mengklasifikasikan Pemahaman Dalam� Menggunakan Microsoft Office"
+  },
+  {
+    "npm": 1810631170049,
+    "nama": "Muhamad Iqbal Faddillah",
+    "pembimbing_proposal": "Intan Purnamasari, M.Kom.",
+    "judul_proposal": "Analisis User Experience Pada Aplikasi Terapis Babyspa"
+  },
+  {
+    "npm": 1810631170050,
+    "nama": "Luvi Nur Rupaidah",
+    "pembimbing_proposal": "Tesa Nur Padilah, M.Sc.",
+    "judul_proposal": "Mengklasifikasikan komentar cyber bullying pada sosial media menggunakan metode K-Nearest Neighbor"
+  },
+  {
+    "npm": 1810631170051,
+    "nama": "Lala Aprianti Putri",
+    "pembimbing_proposal": "Tesa Nur Padilah, M.Sc.",
+    "judul_proposal": "Penerapan Algoritma K-means dalam Menentukan Kelompok Prioritas Penerima Bantuan Covid-19"
+  },
+  {
+    "npm": 1810631170053,
+    "nama": "Vira Kristianingrum",
+    "pembimbing_proposal": "Apriade Voutama, M.Kom.",
+    "judul_proposal": "Penggunaan Pendekatan Design Thinking Pada Model Perancangan UI/UX Aplikasi Sistem Informasi Akademik Universitas Singaperbangsa Karawang Berbasis Mobile"
+  },
+  {
+    "npm": 1810631170054,
+    "nama": "Fakhri Muhammad",
+    "pembimbing_proposal": "Chaerur Rozikin, M.Kom.",
+    "judul_proposal": "Prediksi Peningkatan Kekerasan Pada Anak Dengan Algoritma SVM (Studi Kasus : Dp3a Kabupaten Purwakarta)"
+  },
+  {
+    "npm": 1810631170055,
+    "nama": "Iqbaal Aditya Maulana",
+    "pembimbing_proposal": "Nina Sulistiyowati, S.T., M.Kom.",
+    "judul_proposal": "Analisa User Experience Pada Aplikasi E-Commerce Versi Android Di Indonesia"
+  },
+  {
+    "npm": 1810631170056,
+    "nama": "AFIF KHAIRULLAH",
+    "pembimbing_proposal": "Agung Susilo Yuda Irawan, M.Kom.",
+    "judul_proposal": "Analisis Keamanan Jaringan CCTV Dengan Metode Penetration Testing"
+  },
+  {
+    "npm": 1810631170057,
+    "nama": "Rafli Rasyidin",
+    "pembimbing_proposal": "Kamal Prihandani, M.Kom.",
+    "judul_proposal": "Aplikasi Reservasi Transportasi Berbasis Android Menggunakan Pola Arsitektur MVVM di PT. Pupuk Kujang Cikampek"
+  },
+  {
+    "npm": 1810631170059,
+    "nama": "Sani Shalihamidiq",
+    "pembimbing_proposal": "Kamal Prihandani, M.Kom.",
+    "judul_proposal": "Analisa Tingkat Penghasilan Adsendse Youtube Berdasarkan Like, Dislike dan View Menggunakan Regresi Linier Berganda"
+  },
+  {
+    "npm": 1810631170060,
+    "nama": "Anisa Aulia",
+    "pembimbing_proposal": "Jajam Haerul Jaman, S.E., M.Kom.",
+    "judul_proposal": "Pengelompokkan penerima beras bantuan pangan non tunai (BPNT) di desa palumbonsari menggunakan algoritma K-Means"
+  },
+  {
+    "npm": 1810631170062,
+    "nama": "Muhamad Khandava Mulyadien",
+    "pembimbing_proposal": "Ultach Enri, M.Kom.",
+    "judul_proposal": "Algoritma K-Means Clustering Untuk Pengelompokan Penerima Bantuan Langsung Tunai (BLT) Studi Kasus : Desa Dawuan Barat"
+  },
+  {
+    "npm": 1810631170064,
+    "nama": "Reynaldi Azhar",
+    "pembimbing_proposal": "Adhi Rizal,S.Pd., MT.",
+    "judul_proposal": "Rancang Bangun Sistem Absensi Siswa Menggunakan Teknologi RFID"
+  },
+  {
+    "npm": 1810631170068,
+    "nama": "Samuel Bayulianto",
+    "pembimbing_proposal": "Intan Purnamasari, M.Kom.",
+    "judul_proposal": "Implementasi Algoritma Naive Bayes Dalam Kepuasan Pembelajaran Daring Di SMA"
+  },
+  {
+    "npm": 1810631170069,
+    "nama": "Valerie Febriana Putri Indra Kusumawati",
+    "pembimbing_proposal": "Asep Jamaludin, S.Si., M.Kom.",
+    "judul_proposal": "Penerapan Data Mining Dengan Algoritma Naive Bayes Dalam Mermprediksi Tingkat Kelulusan Siswa (Studi Kasus: LKP Sanggar Indra Kusuma)"
+  },
+  {
+    "npm": 1810631170070,
+    "nama": "Vebyola Dwi Medianti",
+    "pembimbing_proposal": "Iqbal Maulana, S.Si., M.Sc.",
+    "judul_proposal": "Klasifikasi Kematangan Buah Pepaya Berdasarkan Warna Menggunakan Metode K-Nearest Neighbor (KNN)"
+  },
+  {
+    "npm": 1810631170071,
+    "nama": "Naisah Marito Putry",
+    "pembimbing_proposal": "Iqbal Maulana, S.Si., M.Sc.",
+    "judul_proposal": "Klasifikasi Penyakit Daun Gandum dengan Menggunakan Algoritma K-Nearest Neighbor (KNN)"
+  },
+  {
+    "npm": 1810631170072,
+    "nama": "Benedict Ell Nino",
+    "pembimbing_proposal": "Aries Suharso, S.Si., M.Kom.",
+    "judul_proposal": "Perbandingan Algoritma DES dan AES Menggunakan Metode SAW pada Nomor Mahasiswa"
+  },
+  {
+    "npm": 1810631170073,
+    "nama": "Mida Choerunisa",
+    "pembimbing_proposal": "Aji Primajaya, S.Si., M.Kom.",
+    "judul_proposal": "Pengembangan Software Bot Telegram Menggunakan Metode Waterfall pada Pemrograman PHP (Studi Kasus : Perumda Air Minum Tugu Tirta Malang)"
+  },
+  {
+    "npm": 1810631170074,
+    "nama": "Alang Mulya Lesmana",
+    "pembimbing_proposal": "Kamal Prihandani, M.Kom.",
+    "judul_proposal": "Perbandingan algoritma A*, Djikstra, dan Genetic Algoritma dalam menentukan rute terpendek (Pathfinding)"
+  },
+  {
+    "npm": 1810631170076,
+    "nama": "David Bona",
+    "pembimbing_proposal": "Betha Nurina Sari, M.Kom.",
+    "judul_proposal": "Pemetaan dan Analisis Tingkat Kriminalitas di Jakarta Timur selama Covid dengan metode Clustering kernel density dan Algoritma K-means"
+  },
+  {
+    "npm": 1810631170077,
+    "nama": "Valensia Gaby Shintarani",
+    "pembimbing_proposal": "Rini Mayasari, M.Kom.",
+    "judul_proposal": "Prediksi Durasi Pemakaian Ponsel Menggunakan Algoritma Na�ve Bayes"
+  },
+  {
+    "npm": 1810631170078,
+    "nama": "Nur Achmad Fauzi",
+    "pembimbing_proposal": "Budi Arif Dermawan, M.Kom.",
+    "judul_proposal": "Klasifikasi Jenis Penyakit Daun Pada Tanaman Tomat Menggunakan Algoritma CNN"
+  },
+  {
+    "npm": 1810631170079,
+    "nama": "Julius Widianto Pratama Putra",
+    "pembimbing_proposal": "Apriade Voutama, M.Kom.",
+    "judul_proposal": "Perancangan Sistem Pakar Untuk Mengdiagnosis Penyakit Mata Mengunakan Forward Chaining Berbasis Website"
+  },
+  {
+    "npm": 1810631170080,
+    "nama": "Ilyas Shiddiq Pratama",
+    "pembimbing_proposal": "Susilawati, M.Si.",
+    "judul_proposal": "Perancangan Sistem Pakar Mendiagnosis Awal Penyakit Kulit Pada Ternak Sapi Menggunakan Metode Forward Chaining"
+  },
+  {
+    "npm": 1810631170081,
+    "nama": "Abyan Rasyid Aryadi",
+    "pembimbing_proposal": "Betha Nurina Sari, M.Kom.",
+    "judul_proposal": "Analisis Algoritma K-Means dan K-Medoids Dalam Mengelompokkan Data Rata-Rata Konsumsi Kalori (Studi Kasus Data Rata-Rata Konsumsi Kalori Menurut Daerah Tempat Tinggal di Indonesia)"
+  },
+  {
+    "npm": 1810631170082,
+    "nama": "Agung Prabowo",
+    "pembimbing_proposal": "Betha Nurina Sari, M.Kom.",
+    "judul_proposal": "Analisis Perbandingan Kecenderungan Depresi Pada Mahasiswa Unsika Selama Pandemi Covid-19 Menggunakan Support Vector Machine dan XGBoost"
+  },
+  {
+    "npm": 1810631170083,
+    "nama": "Aditya Wijaya",
+    "pembimbing_proposal": "Chaerur Rozikin, M.Kom.",
+    "judul_proposal": "Pemetaan dan Analisis Pengaruh Pandemi COVID-19 Terhadap Tingkat Pembangunan Infrastuktur Di Kabupaten Bekasi Menggunakan Algoritma K-Means Clustering"
+  },
+  {
+    "npm": 1810631170086,
+    "nama": "Muhammad Luthfi Zulfa",
+    "pembimbing_proposal": "Rini Mayasari, M.Kom.",
+    "judul_proposal": "Perancangan Desain UI/UX Aplikasi Online Shop \"Sahabat UMKM\" Berbasis Mobile Dengan Metode Design Thinking"
+  },
+  {
+    "npm": 1810631170087,
+    "nama": "Rofizaidan Maulana",
+    "pembimbing_proposal": "Riza Ibnu Adam, M.Si.",
+    "judul_proposal": "Penerapan Teknik Scraping Python Pada Website Berita Indoensia Untuk Mendeteksi Hoax"
+  },
+  {
+    "npm": 1810631170089,
+    "nama": "Nikita Salsabila",
+    "pembimbing_proposal": "Nina Sulistiyowati, S.T., M.Kom.",
+    "judul_proposal": "Penerapan Data Mining untuk Pemakaian Obat dengan Algoritma Apriori"
+  },
+  {
+    "npm": 1810631170090,
+    "nama": "Arief Riski Indra Pratama",
+    "pembimbing_proposal": "Chaerur Rozikin, M.Kom.",
+    "judul_proposal": "Penggunaan Seleksi Fitur CHI - SQUARE Pada Algoritma Klasifikasi Machine Learning Untuk Persetujuan Pinjaman Modal Usaha Kecil"
+  },
+  {
+    "npm": 1810631170091,
+    "nama": "Tifani Amalina",
+    "pembimbing_proposal": "Nina Sulistiyowati, S.T., M.Kom.",
+    "judul_proposal": "Analisis Data Mining Untuk Clustering Kasus Kekerasan Pada Perempuan di Kota Bekasi dengan Algoritma K-Means (Studi Kasus : DP3A Kota Bekasi)"
+  },
+  {
+    "npm": 1810631170092,
+    "nama": "Supriyanto Lumbanbatu",
+    "pembimbing_proposal": "Azhari Ali Ridha, S.Kom., MMSI.",
+    "judul_proposal": "Sistem Pakar Diagnosis Kerusakan Sepeda Motor Matic Injeksi Menggunakan Metode Forward Chaining Berbasis Android"
+  },
+  {
+    "npm": 1810631170093,
+    "nama": "Piqih Aditiya",
+    "pembimbing_proposal": "Iqbal Maulana, S.Si., M.Sc.",
+    "judul_proposal": "Analisis Sentimen Komentar Playstore Pada Aplikasi myIM3 Menggunakan Metode SVM(Support Vector Machine)"
+  },
+  {
+    "npm": 1810631170094,
+    "nama": "Muhammad Fahmi Prasetio",
+    "pembimbing_proposal": "Apriade Voutama, M.Kom.",
+    "judul_proposal": "Implementasi Sistem pakar dengan metode X pada aplikasi Helpdesk Unsika"
+  },
+  {
+    "npm": 1810631170095,
+    "nama": "Rahmat Alfanza",
+    "pembimbing_proposal": "Azhari Ali Ridha, S.Kom., MMSI.",
+    "judul_proposal": "Prediksi Rating Game Menggunakan Algoritma C4.5 Berdasarkan Entertainment Software Rating Board"
+  },
+  {
+    "npm": 1810631170096,
+    "nama": "Mohammad Nurfaizy Pangestu",
+    "pembimbing_proposal": "M. Jajuli, M.Si.",
+    "judul_proposal": "Prediksi Harga Kartu Grafis NVIDIA Berdasarkan Pengaruh Harga Cryptocurrency Menggunakan Support Vector Regression"
+  },
+  {
+    "npm": 1810631170097,
+    "nama": "Shania Risky Agustin",
+    "pembimbing_proposal": "Hannie, S.Kom., MMSI",
+    "judul_proposal": "Implementasi Data Mining Untuk Menentukan Pola Pembelian Produk Di Tokopedia Dengan Menggunakan Algortima Apriori"
+  },
+  {
+    "npm": 1810631170098,
+    "nama": "Yusuf Syamputra",
+    "pembimbing_proposal": "Intan Purnamasari, M.Kom.",
+    "judul_proposal": "Rancang Bangun Aplikasi Manajemen Data Pasien Klinik Husada Karya Berbasis Mobile"
+  },
+  {
+    "npm": 1810631170099,
+    "nama": "Shobrina Fathoniah",
+    "pembimbing_proposal": "Riza Ibnu Adam, M.Si.",
+    "judul_proposal": "Klasifikasi Penyakit Kulit Pada Manusia dengan menggunakan algoritma CNN"
+  },
+  {
+    "npm": 1810631170100,
+    "nama": "Muhammad Ravly Andryan",
+    "pembimbing_proposal": "Jajam Haerul Jaman, S.E., M.Kom.",
+    "judul_proposal": "Analisis Sentimen Pengendara Ojek Online Di Kota Bekasi Selama Masa Pandemi Dengan Menggunakan Algoritma Naive Bayes"
+  },
+  {
+    "npm": 1810631170101,
+    "nama": "Muhammad Fadhil Ar Rizqi",
+    "pembimbing_proposal": "Kamal Prihandani, M.Kom.",
+    "judul_proposal": "Implementasi Design Thinking dalam Perancangan UI/UX Aplikasi Kesehatan Berbasis Mobile (Studi Kasus: PT. Sintesa Inti Prestasi)"
+  },
+  {
+    "npm": 1810631170102,
+    "nama": "Iskandar Zulkarnaen",
+    "pembimbing_proposal": "Chaerur Rozikin, M.Kom.",
+    "judul_proposal": "Analisis Perbandingan Metode Faster R-CNN dan YOLO untuk Mendeteksi Penggunaan Masker"
+  },
+  {
+    "npm": 1810631170103,
+    "nama": "Adam Mukti Wibisono",
+    "pembimbing_proposal": "Aji Primajaya, S.Si., M.Kom.",
+    "judul_proposal": "Analisis Perbandingan Framework Flutter dan React Native Untuk Pengembangan Aplikasi Mobile yang Bersifat Cross-Platform"
+  },
+  {
+    "npm": 1810631170104,
+    "nama": "Reky Ariqoh",
+    "pembimbing_proposal": "Adhi Rizal,S.Pd., MT.",
+    "judul_proposal": "Game Edukasi Siklus Air untuk Media Pembelajaran Siswa Kelas 5 SD"
+  },
+  {
+    "npm": 1810631170105,
+    "nama": "Arni Sepharni",
+    "pembimbing_proposal": "Iqbal Maulana, S.Si., M.Sc.",
+    "judul_proposal": "Penerapan Data Mining Dalam Memprediksi Penerimaan Beasiswa Menggunakan Algortima C4.5 (Studi Kasus : Beasiswa XYZ)"
+  },
+  {
+    "npm": 1810631170106,
+    "nama": "Iwansyah Edo Hendrawan",
+    "pembimbing_proposal": "Budi Arif Dermawan, M.Kom.",
+    "judul_proposal": "Klasifikasi Penyakit Daun Stroberi dengan Menggunakan Algoritma CNN"
+  },
+  {
+    "npm": 1810631170107,
+    "nama": "Azwar Anas",
+    "pembimbing_proposal": "Purwantoro, M.Kom.",
+    "judul_proposal": "Pelontar Pakan Ikan Otomatis Tenaga Matahari"
+  },
+  {
+    "npm": 1810631170108,
+    "nama": "Rizki Windiawan",
+    "pembimbing_proposal": "Aries Suharso, S.Si., M.Kom.",
+    "judul_proposal": "Analisis Perbandingan Metode Deep Learning Dalam Mengidentifikasi Jenis Pada Tanaman Daun Sirih"
+  },
+  {
+    "npm": 1810631170109,
+    "nama": "Ikbal Fahmi",
+    "pembimbing_proposal": "Garno, M.Kom.",
+    "judul_proposal": "Penerapan Data Mining Untuk Clustering Daerah Rawan Kejahatan Pencurian Berdasarkan Provinsi Menggunakan Algoritma K-Means"
+  },
+  {
+    "npm": 1810631170110,
+    "nama": "Saluri Alam",
+    "pembimbing_proposal": "Intan Purnamasari, M.Kom.",
+    "judul_proposal": "Pengujian Perangkat Lunak Menggunakan Metode Black Box Testing Pada Sistem Informasi Akademik Universitas Singaperbangsa Karawang"
+  },
+  {
+    "npm": 1810631170111,
+    "nama": "Ronna Putri Fadhillah",
+    "pembimbing_proposal": "M. Jajuli, M.Si.",
+    "judul_proposal": "Pengelompokan Data Penerima Vaksin Berdasarkan Usia di Puskesmas Ciasem Menggunakan Metode K-Means Clustering"
+  },
+  {
+    "npm": 1810631170113,
+    "nama": "Syauqi Sulthana Julianto",
+    "pembimbing_proposal": "Carudin, M.Kom.",
+    "judul_proposal": "Pengembangan Aplikasi Reservasi Terapis Babyspa Berbasis Mobile"
+  },
+  {
+    "npm": 1810631170114,
+    "nama": "Muhammad Rizal Vahlevi",
+    "pembimbing_proposal": "Carudin, M.Kom.",
+    "judul_proposal": "Rancang bangun aplikasi reservasi para terapist babyspa berbasis mobile"
+  },
+  {
+    "npm": 1810631170115,
+    "nama": "Fitriana Nur Dhewayani",
+    "pembimbing_proposal": "Intan Purnamasari, M.Kom.",
+    "judul_proposal": "Analisa Ruang Penempatan Barang Menggunakan Algoritma FP-Growth"
+  },
+  {
+    "npm": 1810631170116,
+    "nama": "Audy Sukma Putera",
+    "pembimbing_proposal": "Susilawati, M.Si.",
+    "judul_proposal": "Menentukan Tingkat Kecanduan Game Menggunakan Sistem Pakar"
+  },
+  {
+    "npm": 1810631170117,
+    "nama": "Genta Triyandana",
+    "pembimbing_proposal": "M. Jajuli, M.Si.",
+    "judul_proposal": "Penerapan Data Mining Pada Presentasi Penerimaan Vaksin Menggunakan K-Means Clustering (Studi Kasus : Kec. Klari)"
+  },
+  {
+    "npm": 1810631170118,
+    "nama": "Rijaludin Trilaksana",
+    "pembimbing_proposal": "Dadang Yusup, M.Kom.",
+    "judul_proposal": "Analisis Dan Perancangan Desain Pada Aplikasi Pemesanan Terapis Baby Spa Berbasis Mobile Menggunakan Metode Design Thinking"
+  },
+  {
+    "npm": 1810631170119,
+    "nama": "Felix Andreas",
+    "pembimbing_proposal": "Dadang Yusup, M.Kom.",
+    "judul_proposal": "Perancangan UI/UX Aplikasi Course Online dengan menggunakan metode Design Thinking"
+  },
+  {
+    "npm": 1810631170120,
+    "nama": "Dharma Ajie Nur Rois",
+    "pembimbing_proposal": "Garno, M.Kom.",
+    "judul_proposal": "Aksesibilitas User Experience Bagi Penyandang Disabilitas Kognitif Dengan Metode Double Diamond"
+  },
+  {
+    "npm": 1810631170122,
+    "nama": "Rizaldi Hikmah Alim",
+    "pembimbing_proposal": "Tesa Nur Padilah, M.Sc.",
+    "judul_proposal": "Peningkatan Metode Seleksi Fitur N-gram Untuk Mengoptimalkan Algoritma Naive Bayes (studi kasus : survey kepuasan mahasiswa terhadap kinerja dosen selama kuliah daring)"
+  },
+  {
+    "npm": 1810631170123,
+    "nama": "Muhammad Fizkry Yusuf Al-Fadillah",
+    "pembimbing_proposal": "Susilawati, M.Si.",
+    "judul_proposal": "Penerapan Mikrokontroler untuk pendataan otomatis OEE pada PT CHAO LONG MOTOR PARTS INDONESIA"
+  },
+  {
+    "npm": 1810631170124,
+    "nama": "Titan Nugraha",
+    "pembimbing_proposal": "Purwantoro, M.Kom.",
+    "judul_proposal": "Analisis Pengelompokan Kasus Penyakit Diare di Karawang berdasarkan Kecamatan Dengan Algoritma K-Means"
+  },
+  {
+    "npm": 1810631170125,
+    "nama": "Valdi Irawan",
+    "pembimbing_proposal": "Adhi Rizal,S.Pd., MT.",
+    "judul_proposal": "Penentuan Jual Atau Beli Valuta Asing Pada Software Metatrader Dengan Menggunakan Metode Exponential Moving Average"
+  },
+  {
+    "npm": 1810631170127,
+    "nama": "Moch. Widhi Ramdhani",
+    "pembimbing_proposal": "Asep Jamaludin, S.Si., M.Kom.",
+    "judul_proposal": "Penerapan RFID dalam absensi Mahasiswa Fakultas Ilmu Komputer Universitas Singaperbangsa Karawang"
+  },
+  {
+    "npm": 1810631170128,
+    "nama": "Virgaria Zuliana",
+    "pembimbing_proposal": "Iqbal Maulana, S.Si., M.Sc.",
+    "judul_proposal": "Prediksi Penjualan Kue Basah dan Roti Terlaris Pada Sampireun Bakery Menggunakan Metode KNN"
+  },
+  {
+    "npm": 1810631170129,
+    "nama": "Muhammad Raihan Fais Sya' bani",
+    "pembimbing_proposal": "Ultach Enri, M.Kom.",
+    "judul_proposal": "Klasifikasi Tingkat Kesehatan Gigi Menggunakan Algoritma CNN"
+  },
+  {
+    "npm": 1810631170130,
+    "nama": "Calvin CS Hutasoit",
+    "pembimbing_proposal": "Nono Heryana, M.Kom.",
+    "judul_proposal": "Analisis User Experience Pada Website Universitas Singaperbangsa Karawang Dengan Menggunakan Metode Heuristic Evaluation"
+  },
+  {
+    "npm": 1810631170132,
+    "nama": "Ergy Rahmatan Ramadhan",
+    "pembimbing_proposal": "Kamal Prihandani, M.Kom.",
+    "judul_proposal": "Aplikasi Manajemen Data Pegawai Sekretariat Wakil Presiden RI Berbasis Web"
+  },
+  {
+    "npm": 1810631170133,
+    "nama": "Bagus Aji Pangestu",
+    "pembimbing_proposal": "Asep Jamaludin, S.Si., M.Kom.",
+    "judul_proposal": "Implementasi K-means Dalam Menentukan Obat Terlaris di Apotek Amarta Sehat"
+  },
+  {
+    "npm": 1810631170134,
+    "nama": "Hajar Izzatul Islam",
+    "pembimbing_proposal": "Ultach Enri, M.Kom.",
+    "judul_proposal": "Fraud Detection pada kartu kredit menggunakan AutoML Google Cloud Platform"
+  },
+  {
+    "npm": 1810631170135,
+    "nama": "Muhammad Rifqi Ardianto",
+    "pembimbing_proposal": "Hannie, S.Kom., MMSI.",
+    "judul_proposal": "Perancangan UI/UX Aplikasi E-Commerce Berbasis Website Pada Toko Optik Kimia Farma Jakarta Menggunakan Model Lean User Experience"
+  },
+  {
+    "npm": 1810631170136,
+    "nama": "Osbronson Palti",
+    "pembimbing_proposal": "Kamal Prihandani, M.Kom.",
+    "judul_proposal": "Perancangan Game Edukasi Pembelajaran Bahasa Inggris Dasar Berbasis Android untuk Pelajar SMA dan Sederajat"
+  },
+  {
+    "npm": 1810631170137,
+    "nama": "Wafiuddin Adzhan",
+    "pembimbing_proposal": "Hannie, S.Kom., MMSI.",
+    "judul_proposal": "Implementasi Metode K-Nearest Neighbor Dalam Menganalisis Sentimen Terhadap Penyedia Jasa Layanan Internet First Media."
+  },
+  {
+    "npm": 1810631170138,
+    "nama": "Ilyasa Azharil Muhajir",
+    "pembimbing_proposal": "Dadang Yusup, M.Kom.",
+    "judul_proposal": "Perbandingan membuat Restful API dengan bahasa pemrograman Golang dan dengan Hasura GraphQL"
+  },
+  {
+    "npm": 1810631170139,
+    "nama": "Teguh Muhammad Prasetyo",
+    "pembimbing_proposal": "Betha Nurina Sari, M.Kom.",
+    "judul_proposal": "Implementasi algoritma c4.5 dalam prediksi ketepatan mahasiswa membayar UKT"
+  },
+  {
+    "npm": 1810631170143,
+    "nama": "Faisal Mashuri",
+    "pembimbing_proposal": "Aries Suharso, S.Si., M.Kom.",
+    "judul_proposal": "Deteksi Deepfake Pada Video Menggunakan Arsitektur Resnext dan LSTM Untuk Mengurangi Penyebaran HOAX"
+  },
+  {
+    "npm": 1810631170145,
+    "nama": "Oki Nurul Abada",
+    "pembimbing_proposal": "Chaerur Rozikin, M.Kom.",
+    "judul_proposal": "Klasifikasi Jenis Penyakit Tanaman Sawi Hijau Menggunakan Algoritma CNN"
+  },
+  {
+    "npm": 1810631170146,
+    "nama": "Nabilah Hasna Nuraini",
+    "pembimbing_proposal": "Yuyun Umaidah, M.Kom.",
+    "judul_proposal": "Analisis Segmentasi Pelanggan Menggunakan Algoritma K-Means Clustering dalam Menentukan Strategi Pemasaran (Studi Kasus: PT. Fajri Putra Mandiri)"
+  },
+  {
+    "npm": 1810631170147,
+    "nama": "Rifky Maulana",
+    "pembimbing_proposal": "Jajam Haerul Jaman, S.E., M.Kom.",
+    "judul_proposal": "Pengelompokan Supir Pengangkut Sapi Menggunakan Algoritma Fuzzy C-Means"
+  },
+  {
+    "npm": 1810631170150,
+    "nama": "Nabila Nur Fransiska R",
+    "pembimbing_proposal": "Tesa Nur Padilah, M.Sc.",
+    "judul_proposal": "Analisis Algoritma Data Mining Untuk Klasifikasi Kelayakan Siswa Dalam Memperoleh Dana Bantuan Pendidikan"
+  },
+  {
+    "npm": 1810631170151,
+    "nama": "Dea Amelia",
+    "pembimbing_proposal": "Tesa Nur Padilah, M.Sc.",
+    "judul_proposal": "Klasifikasi Kelayakan Penerima Bantuan Pemerintah Menggunakan Data Mining"
+  },
+  {
+    "npm": 1810631170152,
+    "nama": "Risna Alfiani",
+    "pembimbing_proposal": "Yuyun Umaidah, M.Kom.",
+    "judul_proposal": "Prediksi Tingkat Kepuasan Penggunaan Media Sosial Pada Usia Dewasa Awal Dengan Algoritma (Naive Bayes)"
+  },
+  {
+    "npm": 1810631170153,
+    "nama": "Erika Rahmawati",
+    "pembimbing_proposal": "Betha Nurina Sari, M.Kom.",
+    "judul_proposal": "Pengelompokan Daerah Rawan Tanah Longsor di Jawa Tengah Menggunakan Algoritma K-means"
+  },
+  {
+    "npm": 1810631170154,
+    "nama": "Amar Luthfi",
+    "pembimbing_proposal": "Arip Solehudin, M.Kom.",
+    "judul_proposal": "Pengujian Metode Multi-Factor Authentication untuk Keamanan Sistem"
+  },
+  {
+    "npm": 1810631170155,
+    "nama": "Mikhael",
+    "pembimbing_proposal": "Azhari Ali Ridha, S.Kom., MMSI.",
+    "judul_proposal": "Analisis Perbandingan Algoritma ARIMA, Linear Regression, Neural Network, dan Deep Learning dalam Memprediksi Nilai Indeks Harga Saham Gabungan (IHSG)"
+  },
+  {
+    "npm": 1810631170156,
+    "nama": "Robby Faishal Bari",
+    "pembimbing_proposal": "Arip Solehudin, M.Kom.",
+    "judul_proposal": "Analisis Quality Of Service (QoS) Jaringan Internet Berbasis Wireless Local Area Network Pada Layanan Indihome (Studi Kasus Kedai Kopi)"
+  },
+  {
+    "npm": 1810631170161,
+    "nama": "Romi Hajriana",
+    "pembimbing_proposal": "Asep Jamaludin, S.Si., M.Kom.",
+    "judul_proposal": "Implementasi Algoritma C4.5 Untuk Memprediksi Gangguan Kesehatan Mental Pada Remaja"
+  },
+  {
+    "npm": 1810631170162,
+    "nama": "Miftah Fauzy Alvaruqi",
+    "pembimbing_proposal": "Didi Juardi, S.T., M.Kom.",
+    "judul_proposal": "Perancangan Jaringan Lan Dengan Menggunakan Mikrotik Routeros (Studi Kasus Universitas Singaperbangsa Karawang)"
+  },
+  {
+    "npm": 1810631170164,
+    "nama": "Muhamad Alfian Ibnu Tsalis",
+    "pembimbing_proposal": "Chaerur Rozikin, M.Kom.",
+    "judul_proposal": "Analisis Algoritma Hybrid RSA"
+  },
+  {
+    "npm": 1810631170165,
+    "nama": "Mochamad Riszky Sulaeman",
+    "pembimbing_proposal": "Jajam Haerul Jaman, S.E., M.Kom.",
+    "judul_proposal": "Penerapan Data Mining Menggunakan K-Mean Dalam Prediksi Potensi Tingkat Kecelakaan Berkendara Di Ruas Toll Jakarta-Cikampek"
+  },
+  {
+    "npm": 1810631170167,
+    "nama": "Alia Fadilah",
+    "pembimbing_proposal": "Aji Primajaya, S.Si., M.Kom.",
+    "judul_proposal": "Pengelompokan dan Pemetaan Kematian Maternal di Kabupaten Karawang Menggunakan Algoritma K-Medoids Clustering Berbasis QGIS"
+  },
+  {
+    "npm": 1810631170168,
+    "nama": "Muhammad Rafi Ramdani",
+    "pembimbing_proposal": "Nono Heryana, M.Kom.",
+    "judul_proposal": "Penetration Testing Pada Website Menggunakan Open Web Application Security Project (OWASP) (Studi Kasus : Website Universitas Singaperbangsa Karawang)"
+  },
+  {
+    "npm": 1810631170169,
+    "nama": "Alifka Rizkia Shafa Ramadhan",
+    "pembimbing_proposal": "Purwantoro, M.Kom.",
+    "judul_proposal": "perancangan routing eigrp,bgp,ospf pada ipv6 menggunakan metode redistribution"
+  },
+  {
+    "npm": 1810631170170,
+    "nama": "Fatma Eka Zulfiakhoir",
+    "pembimbing_proposal": "Yuyun Umaidah, M.Kom.",
+    "judul_proposal": "Pemetaan Daerah Perkebunan Kelapa Sawit Berdasarkan Provinsi di Indonesia Menggunakan Algoritma K-medoids"
+  },
+  {
+    "npm": 1810631170171,
+    "nama": "Nana Mulyana Maghfur",
+    "pembimbing_proposal": "Budi Arif Dermawan, M.Kom.",
+    "judul_proposal": "Sumarisasi Teks Forum Diskusi Online Menggunakan Metode Transfer Learning Jaringan Syaraf Tiruan"
+  },
+  {
+    "npm": 1810631170172,
+    "nama": "Rifky Pujianto",
+    "pembimbing_proposal": "Dadang Yusup, M.Kom.",
+    "judul_proposal": "Analisis Sentimen Terhadap Opini Masyarakat Tentang Vaksin Booster Menggunakan Metode Naive Bayes Classifier"
+  },
+  {
+    "npm": 1810631170174,
+    "nama": "Dwiarti Rahma Utami",
+    "pembimbing_proposal": "Ultach Enri, M.Kom.",
+    "judul_proposal": "Analisis Korelasi Dan Regresi Linear Pengaruh Harga Penutupan Nickel Futures Terhadap Harga Penutupan Saham INCO"
+  },
+  {
+    "npm": 1810631170175,
+    "nama": "Agung Hamdani",
+    "pembimbing_proposal": "Agung Susilo Yuda Irawan, M.Kom.",
+    "judul_proposal": "Analisis Manajemen Bandwidth Menggunakan Metode Queue Tree pada Jaringan Internet (Studi Kasus Universitas Singaperbangsa Karawang)"
+  },
+  {
+    "npm": 1810631170176,
+    "nama": "Muhammad Ajie Rizaldi",
+    "pembimbing_proposal": "Aji Primajaya, S.Si., M.Kom.",
+    "judul_proposal": "Sistem Pendukung Keputusan Sertifikasi Lahan Tanah menggunakan Algoritma K-Means Clustering (Studi Kasus: Pilot Project PHATM 2020 di Sulawesi Selatan)"
+  },
+  {
+    "npm": 1810631170178,
+    "nama": "Nafis Naufal Anwari",
+    "pembimbing_proposal": "Purwantoro, M.Kom.",
+    "judul_proposal": "Perbandingan Metode Simple Queue Dan Dueue Tree Untuk Menejemen Bandwidt"
+  },
+  {
+    "npm": 1810631170179,
+    "nama": "Abdussalam Amrullah",
+    "pembimbing_proposal": "Intan Purnamasari, M.Kom.",
+    "judul_proposal": "Pengelompokan Data Kasus Demam Berdarah Dengue di Provinsi Jawa Barat Menggunakan Algoritma K-Means Clustering"
+  },
+  {
+    "npm": 1810631170180,
+    "nama": "Rianti Surya Sukatma",
+    "pembimbing_proposal": "Apriade Voutama, M.Kom.",
+    "judul_proposal": "Sistem Pakar Deteksi Down Syndrome pada Balita Menggunakan Metode Dempster Shafer dengan Penelusuran Forward Chaining"
+  },
+  {
+    "npm": 1810631170182,
+    "nama": "Andika Abadi Pamungkas",
+    "pembimbing_proposal": "Agung Susilo Yuda Irawan, M.Kom.",
+    "judul_proposal": "Perbandingan Prinsip Algoritma RSA dan Algoritma Zero-Knowledge Dalam Whatsapp Mod"
+  },
+  {
+    "npm": 1810631170183,
+    "nama": "Vickry Ramadhan",
+    "pembimbing_proposal": "Apriade Voutama, M.Kom.",
+    "judul_proposal": "Analisis Algoritma Dalam penjurusan Di SMAN 1 Cilamaya Wetan"
+  },
+  {
+    "npm": 1810631170184,
+    "nama": "Firhan Hardiansyah",
+    "pembimbing_proposal": "Adhi Rizal, MT.",
+    "judul_proposal": "Model perancangan sistem web service pada pembelajaran olahraga menggunakan metode agile scrum"
+  },
+  {
+    "npm": 1810631170185,
+    "nama": "Anwar Fuadi",
+    "pembimbing_proposal": "Aries Suharso, S.Si., M.Kom.",
+    "judul_proposal": "Klasifikasi Penyakit Pada Citra Daun Kentang Dengan Arsitektur MobileNet dan NASNetMobile"
+  },
+  {
+    "npm": 1810631170186,
+    "nama": "Yayu Pratiwi Hidayat",
+    "pembimbing_proposal": "Didi Juardi, S.T., M.Kom.",
+    "judul_proposal": "Analisis Persediaan Barang Di Toko Dhiya Pada Implementasi Data Mining Menggunakan Metode Algoritma"
+  },
+  {
+    "npm": 1810631170187,
+    "nama": "Puspa Nurfahira Setiadi",
+    "pembimbing_proposal": "Adhi Rizal,S.Pd., MT.",
+    "judul_proposal": "Perancangan UI Dan UX Dengan Metode User Centered Design Pada Aplikasi Mobile Auctentik"
+  },
+  {
+    "npm": 1810631170188,
+    "nama": "Herwinda Kurniadewi",
+    "pembimbing_proposal": "M. Jajuli, M.Si.",
+    "judul_proposal": "Analisis Pemetaan UMKM dan Kemiskinan"
+  },
+  {
+    "npm": 1810631170189,
+    "nama": "Johan Toni Wijaya",
+    "pembimbing_proposal": "Dadang Yusup, M.Kom.",
+    "judul_proposal": "Perancangan Sistem Warung Kaum Jaya Berbasis Website"
+  },
+  {
+    "npm": 1810631170190,
+    "nama": "Raisya Rahma",
+    "pembimbing_proposal": "Susilawati, M.Si.",
+    "judul_proposal": "Implementasi K-means Clustering Untuk Pengelompokan Potensi Pembagian Tanah"
+  },
+  {
+    "npm": 1810631170191,
+    "nama": "Dwi Suci Anggraeni",
+    "pembimbing_proposal": "Apriade Voutama, M.Kom.",
+    "judul_proposal": "Sistem Pakar Pemilihan Biji Kopi Guna Menghasilkan Cita Rasa Kopi yang Berkualitas Menggunakan Metode Forward Chaining"
+  },
+  {
+    "npm": 1810631170192,
+    "nama": "Bintang Zulfikar Ramadhan",
+    "pembimbing_proposal": "Riza Ibnu Adam, M.Si.",
+    "judul_proposal": "Penerapan Algoritma K-Means Klustering Untuk Pengelompokan Wilayah Rawan Banjir [Studi Kasus: Kota Bekasi]"
+  },
+  {
+    "npm": 1810631170193,
+    "nama": "Farhan Muhammad Naufal",
+    "pembimbing_proposal": "Agung Susilo Yuda Irawan, M.Kom.",
+    "judul_proposal": "Implementasi Router Mikrotik RB941 Dalam Manajemen Jaringan Sekolah Untuk Mewujudkan Internet Sehat (Studi Kasus: YPIT AL-LUTHFAH)"
+  },
+  {
+    "npm": 1810631170194,
+    "nama": "Diah Aufa Arini",
+    "pembimbing_proposal": "Carudin, M.Kom.",
+    "judul_proposal": "Pengimplementasian Stress Testing Dalam Aplikasi Reservasi Jasa Terapis Baby Spa (Momby)"
+  },
+  {
+    "npm": 1810631170195,
+    "nama": "Arif Widayana",
+    "pembimbing_proposal": "Carudin, M.Kom.",
+    "judul_proposal": "Pencarian Data Terapis Baby Spa Menggunakan Metode Algoritma Binary Search Pada Aplikasi Momby Indonesia"
+  },
+  {
+    "npm": 1810631170196,
+    "nama": "Lorenzo Tunggul Irvandito Sirait",
+    "pembimbing_proposal": "Carudin, M.Kom.",
+    "judul_proposal": "Penerapan Metode Lean UX pada Perancangan UI/UX Aplikasi Momby"
+  },
+  {
+    "npm": 1810631170198,
+    "nama": "Zajuli Taupiq Bisri",
+    "pembimbing_proposal": "Garno, M.Kom.",
+    "judul_proposal": "Perancangan Desain User Interface (UI) Aplikasi Pengenalan Penggalangan Dana Donasi Berbasis Mobile Menggunakan Metode Design Thinking"
+  },
+  {
+    "npm": 1810631170199,
+    "nama": "Muhammad Diki Hendriyanto",
+    "pembimbing_proposal": "Azhari Ali Ridha, S.Kom., MMSI.",
+    "judul_proposal": "Analisis Sentimen Ulasan Aplikasi Pada Google Play Store dengan Metode K-Nearest Neighbor (KNN)"
+  },
+  {
+    "npm": 1810631170200,
+    "nama": "Luky Mulana",
+    "pembimbing_proposal": "Kamal Prihandani, M.Kom.",
+    "judul_proposal": "Analisis Perbandingan Kinerja Framework Codeigniter Dengan Express.js Pada Server RESTful API"
+  },
+  {
+    "npm": 1810631170201,
+    "nama": "Desi Kristina Sitinjak",
+    "pembimbing_proposal": "Iqbal Maulana, S.Si., M.Sc.",
+    "judul_proposal": "Prediksi Ketersediaan Lahan Terbuka Hijau di Kab.Karawang Dengan Menggunakan Algoritma Regresi Linear"
+  },
+  {
+    "npm": 1810631170202,
+    "nama": "Rafi Bagus Musyaffa",
+    "pembimbing_proposal": "M. Jajuli, M.Si.",
+    "judul_proposal": "Implementasi Algoritma K-Means Clustering Untuk Pengelompokan Siswa Berprestasi"
+  },
+  {
+    "npm": 1810631170204,
+    "nama": "Ahmad Habib Husaini",
+    "pembimbing_proposal": "Rini Mayasari, M.Kom.",
+    "judul_proposal": "Pengelompokan ulasan aplikasi dengan algoritma clustering"
+  },
+  {
+    "npm": 1810631170205,
+    "nama": "Ummi Kulsum",
+    "pembimbing_proposal": "M. Jajuli, M.Si.",
+    "judul_proposal": "Penerapan Text Mining Untuk Mengetahui Sentimen Dari Data Review Suatu Aplikasi Pada Google Play Store"
+  },
+  {
+    "npm": 1810631170206,
+    "nama": "Tiara Safitri",
+    "pembimbing_proposal": "Yuyun Umaidah, M.Kom.",
+    "judul_proposal": "Analisis Sentimen Pengguna Twitter Terhadap Musik BTS Dengan Menggunakan Algoritma Naive Bayes"
+  },
+  {
+    "npm": 1810631170207,
+    "nama": "Sinar Surya Prabu Al Amin",
+    "pembimbing_proposal": "Jajam Haerul Jaman, S.E., M.Kom.",
+    "judul_proposal": "Penerapan Data Mining Untuk Klasifikasi Perbandingan Standar Kelulusan Dengan Metode Algoritma Naive Bayes Pada SMPN 2 Cilamaya Wetan"
+  },
+  {
+    "npm": 1810631170208,
+    "nama": "Nabila Aurelia Rahma Gunawan",
+    "pembimbing_proposal": "Garno, M.Kom.",
+    "judul_proposal": "Penerapan Data Mining untuk Menentukan Srategi Penjualan di Toko Online dengan clustering algoritma K-Means (Studi Kasus : Dazzling Light Shop)"
+  },
+  {
+    "npm": 1810631170209,
+    "nama": "Mochammad Fitra Pamungkas",
+    "pembimbing_proposal": "Garno, M.Kom.",
+    "judul_proposal": "Analisi Kualitas Sistem Informasi E-Campus Universitas Singaperbangsa Karawang Menggunakan Metode WebQual 4.0"
+  },
+  {
+    "npm": 1810631170211,
+    "nama": "Fioreen Fisiolla Jaffnie",
+    "pembimbing_proposal": "Hannie, S.Kom., MMSI.",
+    "judul_proposal": "Analisis Data Transaksi Penjualan Menggunakan Algoritma Apriori Untuk Menentukan Menu Rekomendasi Produk Kopi (Studi Kasus : Warung Kopi Merapi)"
+  },
+  {
+    "npm": 1810631170212,
+    "nama": "Alif Muhammad Akmal",
+    "pembimbing_proposal": "Nono Heryana, M.Kom.",
+    "judul_proposal": "Analisis Keamanan Website Universitas Singaperbangsa Karawang Menggunakan Metode Vulnerability Assessment"
+  },
+  {
+    "npm": 1810631170213,
+    "nama": "Muhammad Hafizh Nugroho",
+    "pembimbing_proposal": "Apriade Voutama, M.Kom.",
+    "judul_proposal": "Pembuatan Sistem Informasi Bidang Penerangan Internasional Pusat Penerangan Tentara Nasional Indonesia (TNI) Menggunakan Laravel 8"
+  },
+  {
+    "npm": 1810631170214,
+    "nama": "Faiz Ferdiansyah",
+    "pembimbing_proposal": "Nono Heryana, M.Kom.",
+    "judul_proposal": "Analisis User Interface dan User Experience Website MTS Miftahul Huda Karawang Menggunakan Heuristic Evaluation"
+  },
+  {
+    "npm": 1810631170215,
+    "nama": "Muhammad Taufik Azis",
+    "pembimbing_proposal": "Rini Mayasari, M.Kom.",
+    "judul_proposal": "Perancangan Desain Antarmuka UI/UX Aplikasi Manajemen Keuangan Pribadi Menggunakan Metode Design Thinking"
+  },
+  {
+    "npm": 1810631170216,
+    "nama": "Muthia Aulianisa Habibah",
+    "pembimbing_proposal": "Nono Heryana, M.Kom.",
+    "judul_proposal": "Penerapan Metode Design Thinking Pada Model Perancangan UI Dan UX Aplikasi Layanan Jasa Laundry Berbasis Android"
+  },
+  {
+    "npm": 1810631170217,
+    "nama": "Falih Pramataning Dewi",
+    "pembimbing_proposal": "Adhi Rizal,S.Pd., MT.",
+    "judul_proposal": "Rancang Bangun Game Edukasi Sebagai Media Alternatif Berbasis E-Learning Menggunakan Metode Discovery Learning Untuk Siswa Disabilitas (Studi Kasus: SMP Negeri 2 Babelan, Bekasi)"
+  },
+  {
+    "npm": 1810631170218,
+    "nama": "Muhamad Fajri",
+    "pembimbing_proposal": "Riza Ibnu Adam, M.Si.",
+    "judul_proposal": "Klasifikasi Penyakit Kanker Paru-Paru Berdasarkan Citra CT Scan dengan Menggunakan Agloritma XGBoost"
+  },
+  {
+    "npm": 1810631170219,
+    "nama": "Rafik Kusumah",
+    "pembimbing_proposal": "Susilawati, M.Si.",
+    "judul_proposal": "Sistem Penentuan Jenis Tanaman Palawija Yang Cocok Menggunakan Internet Of Things"
+  },
+  {
+    "npm": 1810631170220,
+    "nama": "Priskila Siwi Aryni",
+    "pembimbing_proposal": "Aji Primajaya, S.Si., M.Kom.",
+    "judul_proposal": "Penerapan Data Mining untuk Rekomendasi Paket Bundling dalam Penjualan Baju Online Menggunakan Algoritma Apriori (Studi Kasus : Outlet Motion4fits)"
+  },
+  {
+    "npm": 1810631170221,
+    "nama": "RIYAN NUGRAHA",
+    "pembimbing_proposal": "Didi Juardi, S.T., M.Kom.",
+    "judul_proposal": "Penerapan Sistem Manajemen Bandwidth Menggunakan Metode Hierarchical Token Bucket (HTB) Pada Konektivitas Jaringan Internet\n(Studi Kasus : Otutu Coffe and Kitchen)"
+  },
+  {
+    "npm": 1810631170222,
+    "nama": "Fadhlan Sulistiyo Hidayat",
+    "pembimbing_proposal": "Tesa Nur Padilah, M.Sc.",
+    "judul_proposal": "Penerapan K-Means Clustering Dalam Pengelompokan Kasus Tuberkulosis di Provinsi Jawa Barat"
+  },
+  {
+    "npm": 1810631170224,
+    "nama": "Muhamad Rizki Nugroho",
+    "pembimbing_proposal": "Purwantoro, M.Kom.",
+    "judul_proposal": "Clustering Data Obat Rumah Sakit Asri menggunakan algoritma K-Medoids"
+  },
+  {
+    "npm": 1810631170225,
+    "nama": "Syahman Syahrir",
+    "pembimbing_proposal": "Yuyun Umaidah, M.Kom.",
+    "judul_proposal": "Komparasi Metode Klasifikasi Data Mining Algoritma K-Nearest Neighbor & Na�ve Bayes Pada Dataset Bunga Iris"
+  },
+  {
+    "npm": 1810631170227,
+    "nama": "Bangkit Maulana Syamil",
+    "pembimbing_proposal": "Jajam Haerul Jaman, S.E., M.Kom.",
+    "judul_proposal": "Sistem Penunjang Keputusan Menentukan Target Beasiswa Menggunakan Metode Analysis Hirarky Proses Berbasis Web (Studi Kasus SMK Al-Jazari)"
+  },
+  {
+    "npm": 1810631170228,
+    "nama": "Muhammad Hilmi Syarif",
+    "pembimbing_proposal": "Budi Arif Dermawan, M.Kom.",
+    "judul_proposal": "Prediksi Customer Flow Menggunakan Metode Deep Learning (Study Kasus: PT. Kurnia Ciptamoda Gemilang)"
+  },
+  {
+    "npm": 1810631170229,
+    "nama": "Raynaldy Mahdi Putra",
+    "pembimbing_proposal": "Tesa Nur Padilah, M.Sc.",
+    "judul_proposal": "Sistem Pendukung Keputusan Penentuan Prioritas Warga Penerima Bantuan Langsung Tunai Dana Desa (BLT DD) Dengan Menggunakan Metode Simple Additive Weighting (Studi Kasus: Desa Rawamekar)"
+  },
+  {
+    "npm": 1810631170230,
+    "nama": "Kartika Putri Yani",
+    "pembimbing_proposal": "Didi Juardi, S.T., M.Kom.",
+    "judul_proposal": "Analisis Sentimen dan klasifikasi terhadap tokoh publik pada data twitter menggunakan naive bayes Classifier (studi kasus group exo)"
+  },
+  {
+    "npm": 1810631170232,
+    "nama": "Andreas Anggono",
+    "pembimbing_proposal": "Agung Susilo Yuda Irawan, M.Kom.",
+    "judul_proposal": "Implementasi Algoritma Naive Bayes Dalam Memprediksi Tingkat Penjualan (Studi Kasus: DU. Anugerah Plastik)"
+  },
+  {
+    "npm": 1810631170233,
+    "nama": "Annisa Siti Habibah",
+    "pembimbing_proposal": "Arip Solehudin, M.Kom.",
+    "judul_proposal": "Analisis Jaringan Komputer terhadap Wireless Local Area Network(WLAN) Pada Perusahaan Metode Networking and Communications"
+  },
+  {
+    "npm": 1810631170234,
+    "nama": "Ariq Zeidan Mubarok",
+    "pembimbing_proposal": "Carudin, M.Kom.",
+    "judul_proposal": "Perancangan UI/UX Pada Aplikasi Penerima Pesanan Terapis Baby Spa Berbasis Mobile Menggunakan Metode User Centered Design"
+  },
+  {
+    "npm": 1810631170237,
+    "nama": "Ragil Aria Dewanto",
+    "pembimbing_proposal": "Aries Suharso, S.Si., M.Kom.",
+    "judul_proposal": "Pengaruh Algoritma RSA Terhadap Keamanan File Document"
+  },
+  {
+    "npm": 1810631170240,
+    "nama": "Farhan Ahmad Rofi",
+    "pembimbing_proposal": "Riza Ibnu Adam, M.Si.",
+    "judul_proposal": "Penerapan Data Mining Untuk Menentukan Strategi Pemasaran Menggunakan Metode Clustering Dengan Algoritma k-Means (Studi kasus : Toko Sepatu BM Original)"
+  },
+  {
+    "npm": 1810631170241,
+    "nama": "Ranti Holiyanti",
+    "pembimbing_proposal": "Kamal Prihandani, M.Kom.",
+    "judul_proposal": "Perancangan Sistem Informasi Follow-Up Minutes Of Meeting Internal dan Eksternal Berbasis Web. (Studi Kasus : PT. Kalbe Morinaga Indonesia)"
+  },
+  {
+    "npm": 1810631170244,
+    "nama": "Arief Fahrezi",
+    "pembimbing_proposal": "Agung Susilo Yuda Irawan, M.Kom.",
+    "judul_proposal": "Analisis Dan Perancangan Jaringan Hotspot Server Berbasis Mikrotik Dengan Metode Network Development Life Cycle (NDLC)."
+  },
+  {
+    "npm": 1810631170245,
+    "nama": "Thomas Reizaldi Sanusi",
+    "pembimbing_proposal": "Arip Solehudin, M.Kom.",
+    "judul_proposal": "Analisis QoS dan Manajemen Bandwith pada jaringan internet di cafe MABESTIM"
+  },
+  {
+    "npm": 1810631170246,
+    "nama": "Rona Febriana",
+    "pembimbing_proposal": "Purwantoro, M.Kom.",
+    "judul_proposal": "Analisis Celah Keamanan Aplikasi Berbasis Website Dengan Metode Top 10 OWASP Attack"
+  },
+  {
+    "npm": 1810631170247,
+    "nama": "Danendra Bima Adhi Pramana",
+    "pembimbing_proposal": "Riza Ibnu Adam, M.Si.",
+    "judul_proposal": "Penerapan Data Mining Dengan Menggunakan Algoritma K-Means Dalam Prediksi Potensi Tingkat Kecelakaan Berlalu Lintas di Kota Bekasi"
+  },
+  {
+    "npm": 1810631170248,
+    "nama": "Putri Margaretta",
+    "pembimbing_proposal": "Betha Nurina Sari, M.Kom.",
+    "judul_proposal": "Sistem Pakar Identifikasi Kesejahteraan Beruang Madu Di Areal Konservasi Ex-Situ Menggunakan Metode Certainty Factor"
+  },
+  {
+    "npm": 1810631170254,
+    "nama": "Nida Tsuroya Sholahuddin",
+    "pembimbing_proposal": "Carudin, M.Kom.",
+    "judul_proposal": "Tinjauan Literatur Sistematis Prediksi Cacat Pada Aplikasi Momby"
+  },
+  {
+    "npm": 1810631170256,
+    "nama": "Adhitya Rizkyawan Fadillah",
+    "pembimbing_proposal": "Arip Solehudin, M.Kom.",
+    "judul_proposal": "Analisis Keamanan Aplikasi Whatsapp Mod Pada Perangkat Android"
+  },
+  {
+    "npm": 1810631170257,
+    "nama": "Mohammad Rizal Givari",
+    "pembimbing_proposal": "Dadang Yusup, M.Kom.",
+    "judul_proposal": "Penerapan Augmented Reality Dalam Pembuatan Katalog Pemasaran Perumahan."
+  },
+  {
+    "npm": 1810631170258,
+    "nama": "Rizma Berlina Putri Affandi",
+    "pembimbing_proposal": "Asep Jamaludin, S.Si., M.Kom.",
+    "judul_proposal": "Implementasi Algoritma Apriori Sebagai Solusi Kerugian Akibat Pandemic (Studi Kasus : PD. Ridha Kaos Kaki Tasikmalaya)"
+  },
+  {
+    "npm": 1810631170259,
+    "nama": "Nikko Aldiana Kristiawan",
+    "pembimbing_proposal": "Nina Sulistiyowati, S.T., M.Kom.",
+    "judul_proposal": "Penerapan Algoritma K-means Clustering Untuk Analisis dan Pemetaan Daerah Rawan Stunting Di Kabupaten Karawang"
+  },
+  {
+    "npm": 1810631170260,
+    "nama": "Addin Firdaus Alfatah",
+    "pembimbing_proposal": "Hannie, S.Kom., MMSI.",
+    "judul_proposal": "Analisis Prediksi Harga Saham Sektor Energi Menggunakan Metode Autoregressive Integrated Moving Average (ARIMA)"
+  },
+  {
+    "npm": 1810631170262,
+    "nama": "Fahrevi Dwiputra Basthanda",
+    "pembimbing_proposal": "Arip Solehudin, M.Kom.",
+    "judul_proposal": "Analisis Dampak Rooting dan Custom ROM pada Perangkat Android"
+  }
+]

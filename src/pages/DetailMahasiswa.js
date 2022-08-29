@@ -1,9 +1,7 @@
-import {StyleSheet, Text, View} from 'react-native';
+import {Text, View} from 'react-native';
 import React from 'react';
 import ThemeText from '../assets/style/ThemeText';
-import ThemeColor from '../assets/style/ThemeColor';
 import Style from '../assets/style/Styles';
-import StatusComponents from '../components/StatusComponents';
 
 const DetailMahasiswa = ({route, navigation}) => {
   const {mhs} = route.params;
@@ -19,21 +17,17 @@ const DetailMahasiswa = ({route, navigation}) => {
   return (
     <View style={Style.bg_dark}>
       <View style={Style.container}>
-        <Text style={ThemeText.textHeading}>Biodata</Text>
+        <Text style={ThemeText.textHeading}>Proposal Skripsi</Text>
         <DetailInfoComponent title={'Nama'} value={mhs.nama} />
-        <DetailInfoComponent title={'NPM'} value={mhs.nim} />
-        <DetailInfoComponent title={'Nomor HP'} value={mhs.noHp} />
-        <DetailInfoComponent title={'Email'} value={mhs.user.email} />
+        <DetailInfoComponent title={'NPM'} value={mhs.npm} />
         <DetailInfoComponent
-          title={'Program Studi'}
-          value={mhs.programStudi.name}
+          title={'Dosen Pembimbing '}
+          value={mhs.pembimbing_proposal}
         />
-        <View style={{marginTop: 12}}>
-          <Text style={[ThemeText.textMuted, {marginBottom: 4}]}>
-            Status Mahasiswa
-          </Text>
-          <StatusComponents status={mhs.statusMahasiswa.id} />
-        </View>
+        <DetailInfoComponent
+          title={'Judul Proposal'}
+          value={mhs.judul_proposal}
+        />
       </View>
     </View>
   );
@@ -43,11 +37,11 @@ const DetailInfoComponent = ({title, value}) => {
   return (
     <View style={{marginTop: 12}}>
       <Text style={ThemeText.textMuted}>{title}</Text>
-      <Text style={ThemeText.textTitle}>{value !== '' ? value : '-'}</Text>
+      <Text style={[ThemeText.textTitle, {lineHeight: 26}]}>
+        {value !== '' ? value : '-'}
+      </Text>
     </View>
   );
 };
 
 export default DetailMahasiswa;
-
-const styles = StyleSheet.create({});

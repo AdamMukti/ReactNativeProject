@@ -1,4 +1,4 @@
-import {StyleSheet, Text, View, Image} from 'react-native';
+import {Text, View, Image} from 'react-native';
 import React from 'react';
 import maitenance from '../assets/image/maintenance.png';
 import Styles from '../assets/style/Styles';
@@ -22,5 +22,3 @@ const NotFoundPage = ({navigation}) => {
 };
 
 export default NotFoundPage;
-
-const styles = StyleSheet.create({});

@@ -12,11 +12,10 @@ import Style from '../assets/style/Styles';
 import SearchIcon from '../assets/icon/search.png';
 import ThemeText from '../assets/style/ThemeText';
 import ThemeColor from '../assets/style/ThemeColor';
-import StatusComponents from '../components/StatusComponents';
 
 const Mahasiswa = ({navigation}) => {
   let [mahasiswaList, setMahasiswaList] = useState([]);
-  let mahasiswa = require('../api/GetAllMahasiswa.json');
+  let mahasiswa = require('../api/mahasiswa.json');
   useEffect(() => {
     setMahasiswaList(mahasiswa);
   }, []);
@@ -30,12 +29,6 @@ const Mahasiswa = ({navigation}) => {
       },
     });
   }, [navigation]);
-
-
-
-
-
-
 
   const runFilter = keyword => {
     let result;
@@ -68,15 +61,7 @@ const Mahasiswa = ({navigation}) => {
           }}>
           <View style={{flex: 1}}>
             <Text style={ThemeText.textTitle}>{item.nama}</Text>
-            <Text style={ThemeText.textMuted}>{item.nim}</Text>
-          </View>
-          <View
-            style={{
-              flex: 1,
-              alignItems: 'flex-end',
-              justifyContent: 'center',
-            }}>
-            <StatusComponents status={item.statusMahasiswa.id} />
+            <Text style={ThemeText.textMuted}>{item.npm}</Text>
           </View>
         </View>
       </TouchableOpacity>
@@ -114,7 +99,7 @@ const Mahasiswa = ({navigation}) => {
         <FlatList
           data={mahasiswaList}
           renderItem={renderListMahasiswa}
-          keyExtractor={item => item.nim.toString()}
+          keyExtractor={item => item.npm.toString()}
         />
       </View>
     </View>
