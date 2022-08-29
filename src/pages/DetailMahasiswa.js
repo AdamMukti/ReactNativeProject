@@ -1,9 +1,7 @@
-import {StyleSheet, Text, View} from 'react-native';
+import {Text, View} from 'react-native';
 import React from 'react';
 import ThemeText from '../assets/style/ThemeText';
-import ThemeColor from '../assets/style/ThemeColor';
 import Style from '../assets/style/Styles';
-import StatusComponents from '../components/StatusComponents';
 
 const DetailMahasiswa = ({route, navigation}) => {
   const {mhs} = route.params;

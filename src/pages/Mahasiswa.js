@@ -12,7 +12,6 @@ import Style from '../assets/style/Styles';
 import SearchIcon from '../assets/icon/search.png';
 import ThemeText from '../assets/style/ThemeText';
 import ThemeColor from '../assets/style/ThemeColor';
-import StatusComponents from '../components/StatusComponents';
 
 const Mahasiswa = ({navigation}) => {
   let [mahasiswaList, setMahasiswaList] = useState([]);
